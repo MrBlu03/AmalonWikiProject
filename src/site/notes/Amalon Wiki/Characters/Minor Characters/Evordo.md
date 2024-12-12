@@ -6,12 +6,12 @@
 A teacher at [[Amalon Wiki/Notable Locations/Hidden Lowval\|Hidden Lowval]] who later became hostile towards [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]] during her return to [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]]. His transformation from mentor to antagonist represents the broader shift in Valomorian attitudes following [[Amalon Wiki/Characters/Major Characters/Aradoth\|Aradoth]] 's failed invasion of [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]].
 
 ## Physical Description
-- Wears traditional Valomorian scholar's attire
+- Wears traditional [[Amalon Wiki/The Kingdoms/High Valomor\|Valomorian]] scholar's attire
 - Carries himself with academic authority
 - Appears as a distinguished teacher
 
 ## Background
-Evordo served as one of Vai's teachers during her early training at Hidden Lowval. After the war between Valomor and Vilgmeri, he became increasingly xenophobic and hostile towards those who had left Valomor, viewing them as traitors to their homeland.
+Evordo served as one of [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] 's teachers during her early training at [[Amalon Wiki/Notable Locations/Hidden Lowval\|Hidden Lowval]]. After the war between [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]] and [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], he became increasingly xenophobic and hostile towards those who had left [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]], viewing them as traitors to their homeland.
 
 ## Personality
 - Initially professional and scholarly
@@ -34,16 +34,16 @@ Evordo served as one of Vai's teachers during her early training at Hidden Lowva
 ### Associates
 - Former teacher to [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]]
 - Allied with other magistrates
-- Enemy to those who left Valomor
+- Enemy to those who left [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]]
 
 ## Notable Events
-- Taught at Hidden Lowval
-- Confronted Vai upon her return to High Valomor
-- Participated in the attempted assault on Vai
-- Was defeated along with other magistrates by Vai's enhanced powers
+- Taught at [[Amalon Wiki/Notable Locations/Hidden Lowval\|Hidden Lowval]]
+- Confronted [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] upon her return to [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]]
+- Participated in the attempted assault on [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]]
+- Was defeated along with other magistrates by [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] 's enhanced powers
 
 ## Trivia
-- His transformation represents the broader cultural shift in Valomor after the war
+- His transformation represents the broader cultural shift in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]] after the war
 - One of several teachers who turned against their former students
 - Demonstrates how deeply the failed invasion affected Valomorian society
 

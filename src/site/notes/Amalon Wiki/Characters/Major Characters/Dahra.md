@@ -22,7 +22,6 @@ Little is known about Dahra's origins, but she has existed for an indeterminate 
 - Values balance in all things
 
 ## Abilities
-
 ### Combat Skills
 - Skilled spear wielder
 - Capable of transforming into different creatures
@@ -38,7 +37,6 @@ Little is known about Dahra's origins, but she has existed for an indeterminate 
 - Can create magical bonds through enchanted items
 
 ## Relationships
-
 ### Associates
 - Ally to [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]]
 - Opponent of [[Amalon Wiki/Characters/Major Characters/Macijek A'Vak\|Macijek A'Vak]]
@@ -46,16 +44,16 @@ Little is known about Dahra's origins, but she has existed for an indeterminate 
 - Guardian of the Silent Depths
 
 ## Notable Events
-- Helped Mar'Keth understand the threat of Macijek A'Vak
-- Participated in the battle against the Brotherhood
-- Provided Mar'Keth with an enchanted ring for protection
-- Aided in the attempt to destroy Macijek
+- Helped [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]] understand the threat of [[Amalon Wiki/Characters/Major Characters/Macijek A'Vak\|Macijek A'Vak]]
+- Participated in the battle against the [[Amalon Wiki/Organisations/Brotherhood\|Brotherhood]]
+- Provided [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]] with an enchanted ring for protection
+- Aided in the attempt to destroy [[Amalon Wiki/Characters/Major Characters/Macijek A'Vak\|Macijek A'Vak]]
 
 ## Trivia
 - Can see into multiple possible futures
 - Her powers are limited by natural laws
 - Serves as a balance between civilization and nature
-- One of the few beings aware of Macijek's true nature
+- One of the few beings aware of [[Amalon Wiki/Characters/Major Characters/Macijek A'Vak\|Macijek]] 's true nature
 
 ## References
 - Amalon: The Steel Path
