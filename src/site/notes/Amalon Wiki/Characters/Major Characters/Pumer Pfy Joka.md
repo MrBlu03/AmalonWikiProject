@@ -26,7 +26,6 @@ Originally from Ervenia, [[Amalon Wiki/Characters/Major Characters/Pumer Pfy Jok
 - Talented at sneaking and theft
 - Could expertly assess and repair weapons
 ## Relationships
-## Relationships
 ### Family
 - No known relatives
 

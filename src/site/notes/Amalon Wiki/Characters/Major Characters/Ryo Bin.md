@@ -32,7 +32,6 @@ Born into nobility as the second son of [[Amalon Wiki/Characters/Minor Character
 - Master of disguise 
 - Skilled at tracking
 ## Relationships
-## Relationships
 ### Family
 - **[[Amalon Wiki/Characters/Minor Characters/Haki Bin\|Haki Bin]]**: Father
 - Unnamed noble family

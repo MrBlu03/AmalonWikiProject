@@ -27,7 +27,6 @@ Born to immigrant parents from Var who later died defending R'Oth Vilgmeri durin
 ### Magic/Special Powers
 - None personally, though his tavern is protected by Ervenian enchantments
 ## Relationships
-## Relationships
 ### Family
 - Parents (deceased) - Immigrants from Var who died defending R'Oth Vilgmeri
 - No other known relatives

@@ -26,7 +26,6 @@
 - Able to perceive visions of the future and the mysterious Astral Throne
 - Uses sound magic through kula playing to affect the physical world
 ## Relationships
-## Relationships
 ### Family
 - **[[Amalon Wiki/Characters/Minor Characters/Grundal Elebor Dani\|Grundal Elebor Dani]]**: Father
 - **[[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath Elebor Dani]]**: Grandfather (deceased, spiritual presence)

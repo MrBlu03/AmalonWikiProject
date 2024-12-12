@@ -33,7 +33,6 @@ During a diplomatic mission, Mar'Keth's squad was ambushed and killed, leaving h
 - Shield emits golden glow when activated
 - Weapons channel his emotional burden into combat strength
 ## Relationships
-## Relationships
 ### Family
 - Unknown birth parents
 - Wealthy adoptive family (estranged)

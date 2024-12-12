@@ -33,7 +33,6 @@ Born into a family disdainful of magic, [[Amalon Wiki/Characters/Major Character
 - Survived magical backlash that would kill normal enchanters
 
 ## Relationships
-## Relationships
 ### Family
 - Ostracized by magic-fearing family
 - No other known relatives

@@ -26,7 +26,6 @@
 - Can communicate with and possess astral magic users
 - Created new forms of astral magic (Wisdom, Pyro, Catalyst, Decay)  
 ## Relationships
-## Relationships
 ### Family
 - **[[Amalon Wiki/Characters/Minor Characters/Grundal Elebor Dani\|Grundal Elebor Dani]]**: Son
 - **[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]]**: Granddaughter

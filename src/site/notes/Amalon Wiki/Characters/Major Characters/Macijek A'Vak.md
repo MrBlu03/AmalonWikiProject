@@ -30,7 +30,6 @@ Originally from Vakithan, a poor region of outer Harrdmindor. After supposedly d
 - Cannot be permanently killed due to god's protection
 - Can survive normally fatal wounds
 ## Relationships
-## Relationships
 ### Family
 - No known relatives
 
