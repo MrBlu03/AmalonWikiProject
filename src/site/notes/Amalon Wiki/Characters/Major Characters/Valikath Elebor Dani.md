@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/amalon-wiki/characters/major-characters/valikath-elebor-dani/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-I'll help you with the linking. Here's the text with links applied according to the specified rules:
-
 ## Overview
 [[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath Elebor Dani]] was a notorious [[Amalon Wiki/The Kingdoms/High Valomor/High Valomor\|Valomorian]] scholar and sorcerer who pushed the boundaries of [[Amalon Wiki/Magic and Technology/Valomorian Astral Magic\|astral magic]]. Even after his execution for unethical experiments, his soul lingered on, seeking to manipulate his granddaughter [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] to finish his work.
 
