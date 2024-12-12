@@ -2,50 +2,48 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/amalon-wiki/characters/major-characters/vai-elebor-dani/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-# [Character Full Name]
-
 ## Overview
-Brief 2-3 sentence summary of who the character is and their significance in Amalon's world.
-
+[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]], a skilled sorcerer from High Valomor, inherited the astral Mela from [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] and embarked on a journey to uncover the secrets of the Astral Throne. Her quest led her to confront dark forces and her own growing power.
 ## Physical Description
-- Appearance
-- Distinguishing features
-- Notable gear/clothing
-
+- Young woman with dark hair
+- Wears a pink dress that reflects light 
+- Carries a kula (multi-string wood instrument)
 ## Background
-Chronological history of the character's major life events and origins.
-
-## Personality
-Key character traits, beliefs, and behaviors that define them.
-
+[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] grew up in High Valomor, studying astral magic from a young age. At fifteen, she began working at [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori's]] tavern as a bard. When [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] passed on the astral Mela to her, [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] dedicated herself to mastering its power and understanding the visions of the Astral Throne that haunted her.
+## Personality 
+- Ambitious and driven to become a powerful sorcerer
+- Independent and willing to leave home to pursue her goals
+- Develops a ruthless streak influenced by Mela and [[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath's]] soul
+- Slowly learns to question her harsh judgments and seek a higher purpose
 ## Abilities
 ### Combat Skills
-- Fighting style
-- Weapons proficiency
-- Special techniques
-
+- Trained in astral magic combat at Valomor's School of Acquired Astral Magic Arts
+- Can summon and control magical energy projectiles
+- Combines magic with kula playing to boost power
 ### Magic/Special Powers
-- Type of magic used (if any)
-- Unique abilities
-- Notable feats
-
+- Bonded with the astral Mela, granting enhanced magical abilities
+- Can access the knowledge and power of her grandfather [[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath's]] soul 
+- Able to perceive visions of the future and the mysterious Astral Throne
+- Uses sound magic through kula playing to affect the physical world
 ## Relationships
 ### Family
-- Known relatives
-- Family history
-
+- Daughter of [[Amalon Wiki/Characters/Minor Characters/Grundal Elebor Dani\|Grundal Elebor Dani]] 
+- Granddaughter of the notorious sorcerer [[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath Elebor Dani]]
 ### Associates
-- Allies
-- Enemies
-- Important connections
-
+- Apprentice and successor to [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]]
+- Bard and friend of [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]]
+- Pawn in a power struggle between the astral Mela and [[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath's]] soul
 ## Notable Events
-Significant events or battles the character participated in.
-
+- Received the astral Mela from [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] in a magical transference 
+- Explored [[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath's]] hidden study and uncovered his secret research
+- Helped defend [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori's]] tavern using bardic sound magic
+- Confronted [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] and battled for control over the astral's power
 ## Trivia
-- Interesting facts
-- Cultural significance
-- Behind-the-scenes information
-
+- One of the only sorcerers able to bond with an astral directly
+- Honed her musical magic as a tavern bard in Vilgmeri  
+- Unintentionally channeled [[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath's]] soul when accessing Mela's power
+- Her kula playing can hypnotize listeners and manifest physical sound constructs
 ## References
-List of stories/documents where this character appears.
+- "Tales of Amalon: Astral Throne"
+- "Vai The Fortuneteller"  
+- "Tales from the Four Kingdoms"

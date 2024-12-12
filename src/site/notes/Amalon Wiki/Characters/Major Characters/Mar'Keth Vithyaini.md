@@ -11,7 +11,9 @@
 - Light skin tone with scars
 - Notable combat gear includes his signature shield and flail
 ## Background
-Adopted into a wealthy family at a young age, [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]] chose to join the military rather than follow his adoptive family's wishes. Rose through the ranks to become leader of Juyva One division. After surviving an ambush that killed his squad, he uncovered a conspiracy within Juval's military leadership and eventually stopped a plot to instigate war between nations.
+[[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]] was adopted at a young age by a wealthy family who later gave him away to another affluent family. He chose to join the military rather than follow his second adoptive family's wishes. Mar'Keth rose through the ranks to become leader of the prestigious Juyva One division.
+
+During a diplomatic mission, Mar'Keth's squad was ambushed and killed, leaving him as the sole survivor. In the aftermath, he began uncovering clues pointing to corruption within Juval's military leadership. His subsequent investigation exposed a conspiracy to secretly instigate war between nations, a plot he eventually helped to prevent.
 ## Personality
 - Values honor but recognizes its limitations in combat
 - Deeply loyal to his comrades
