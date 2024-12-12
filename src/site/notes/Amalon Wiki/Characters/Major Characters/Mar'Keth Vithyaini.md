@@ -33,17 +33,23 @@ During a diplomatic mission, Mar'Keth's squad was ambushed and killed, leaving h
 - Shield emits golden glow when activated
 - Weapons channel his emotional burden into combat strength
 ## Relationships
+## Relationships
 ### Family
 - Unknown birth parents
 - Wealthy adoptive family (estranged)
+
 ### Associates
-- Allies:
-  - Dahra (nature guardian)
-  - [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]] (tavern keeper)
-  - Lor'Zam (deceased comrade)
-- Enemies:
-  - Armid'Ro (corrupt military leader)
-  - Various assassins
+- **Dahra**: Nature guardian and ally
+- **[[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]]**: Tavern keeper and ally
+- **Lor'Zam**: Deceased comrade
+- **[[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]]**: Magical advisor
+- **[[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]]**: Ally from previous conflicts
+
+### Enemies
+- **Armid'Ro**: Corrupt military leader
+- **[[Amalon Wiki/Characters/Major Characters/Ryo Bin\|Ryo Bin]]**: Former student turned enemy
+- **[[Amalon Wiki/Characters/Major Characters/Macijek A'Vak\|Macijek A'Vak]]**: Temporary adversary
+- Various assassins
 ## Notable Events
 - Leadership of Juyva One division
 - Survival of diplomatic mission ambush

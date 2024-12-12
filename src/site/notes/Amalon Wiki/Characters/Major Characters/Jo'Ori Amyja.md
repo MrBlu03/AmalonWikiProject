@@ -27,15 +27,20 @@ Born to immigrant parents from Var who later died defending R'Oth Vilgmeri durin
 ### Magic/Special Powers
 - None personally, though his tavern is protected by Ervenian enchantments
 ## Relationships
+## Relationships
 ### Family
-- Parents (deceased) - Immigrants from Var who died in war
+- Parents (deceased) - Immigrants from Var who died defending R'Oth Vilgmeri
 - No other known relatives
+
 ### Associates
-- [[Amalon Wiki/Characters/Major Characters/Pumer Pfy Joka\|Pumer Pfy Joka]] (deceased) - Best friend and regular patron
-- [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]] - Trusted friend and patron
-- [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]] - Tavern bard
-- [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]] - Enchanted his tavern
-- [[Amalon Wiki/Characters/Major Characters/Ryo Bin\|Ryo Bin]] - Enemy, banned from tavern after Pumer's death
+- **[[Amalon Wiki/Characters/Major Characters/Pumer Pfy Joka\|Pumer Pfy Joka]]**: Best friend and regular tavern patron, deceased
+- **[[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]]**: Trusted friend and tavern patron
+- **[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]]**: Tavern bard and friend
+- **[[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]]**: Magical ally who enchanted the Drunken Sails tavern
+- **[[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]]**: Ally and occasional tavern patron
+
+### Enemies
+- **[[Amalon Wiki/Characters/Major Characters/Ryo Bin\|Ryo Bin]]**: Banned from the tavern, responsible for Pumer's death
 ## Notable Events
 - Establishment of the Drunken Sails tavern
 - Death of his friend Pumer

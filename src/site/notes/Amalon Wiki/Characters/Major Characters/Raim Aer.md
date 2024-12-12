@@ -30,13 +30,17 @@ Born and raised in High Valomor, [[Amalon Wiki/Characters/Major Characters/Raim 
 - Could be revived from death through Astral power
 ## Relationships
 ### Family
-- No known relatives mentioned
+- No known relatives
+
 ### Associates
-- [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]] (student and successor)
-- [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]] (friend)
-- [[Amalon Wiki/Characters/Major Characters/Pumer Pfy Joka\|Pumer Pfy Joka]] (deceased friend)
-- [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]] (deceased friend)
-- Aradoth (enemy)
+- **[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]]**: Student and successor, passed Astral powers to her
+- **[[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]]**: Friend, frequent patron of the Drunken Sails tavern
+- **[[Amalon Wiki/Characters/Major Characters/Pumer Pfy Joka\|Pumer Pfy Joka]]**: Deceased friend
+- **[[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]]**: Deceased friend and ally
+- **[[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]]**: Magical ally and advisor
+
+### Enemies
+- **Aradoth**: Corrupt magistrate defeated during his key mission
 ## Notable Events
 - Bonding with the Astral Mela
 - Defeat of Aradoth

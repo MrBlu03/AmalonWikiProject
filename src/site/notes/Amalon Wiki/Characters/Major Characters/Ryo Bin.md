@@ -32,14 +32,19 @@ Born into nobility as the second son of [[Amalon Wiki/Characters/Minor Character
 - Master of disguise 
 - Skilled at tracking
 ## Relationships
+## Relationships
 ### Family
-- [[Amalon Wiki/Characters/Minor Characters/Haki Bin\|Haki Bin]] (father)
+- **[[Amalon Wiki/Characters/Minor Characters/Haki Bin\|Haki Bin]]**: Father
 - Unnamed noble family
+
 ### Associates
-- [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]] (former mentor/enemy)
-- Assassins Guild (subordinates)
-- Various clients
-- [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]] (enemy, banned from tavern) 
+- **Assassins Guild**: Subordinates and organization
+- **Various clients**: Professional contacts
+
+### Allies and Enemies
+- **[[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]]**: Former mentor, current enemy (later temporary ally)
+- **[[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]]**: Enemy (banned from tavern)
+- **[[Amalon Wiki/Characters/Major Characters/Pumer Pfy Joka\|Pumer Pfy Joka]]**: Victim (assassination target)
 ## Notable Events
 - Betrayal of [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]]
 - Formation of the Assassins Guild

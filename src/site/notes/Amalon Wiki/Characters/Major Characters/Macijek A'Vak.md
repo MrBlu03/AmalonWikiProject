@@ -30,13 +30,17 @@ Originally from Vakithan, a poor region of outer Harrdmindor. After supposedly d
 - Cannot be permanently killed due to god's protection
 - Can survive normally fatal wounds
 ## Relationships
+## Relationships
 ### Family
 - No known relatives
+
 ### Associates
-- The Brotherhood (followers)
-- Death God Eizim (patron deity)
-- [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]] (temporary ally/enemy)
-- Dahra (enemy)
+- **The Brotherhood**: Followers and organization he leads
+- **Eizim**: Death God serving as his patron deity
+
+### Allies and Enemies
+- **[[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]]**: Temporary ally/enemy
+- **Dahra**: Enemy
 ## Notable Events
 - His supposed death and rebirth
 - Battle with [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]] and Dahra

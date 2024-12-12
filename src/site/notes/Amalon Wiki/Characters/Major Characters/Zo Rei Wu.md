@@ -33,14 +33,20 @@ Born into a family disdainful of magic, [[Amalon Wiki/Characters/Major Character
 - Survived magical backlash that would kill normal enchanters
 
 ## Relationships
+## Relationships
 ### Family
 - Ostracized by magic-fearing family
-- Works alone with only grotl servants 
+- No other known relatives
 
 ### Associates
-- Ally and advisor to [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]], [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]], and [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]]
-- Provides secret magical assistance to Vilgmeri 
-- Makes deals with otherworldly beings like grotls
+- **[[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]]**: Ally
+- **[[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]]**: ally
+- **[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]]**: Magical ally and friend
+- **[[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]]**: Magical ally (provided tavern enchantment) and friend
+- [[Amalon Wiki/Characters/Major Characters/Pumer Pfy Joka\|Pumer Pfy Joka]] close friend and ally
+
+### Allies
+- Grotls (magical beings he has enslaved)
 
 ## Notable Events
 - Opened a stable portal to Vjani'thar and bound the grotls

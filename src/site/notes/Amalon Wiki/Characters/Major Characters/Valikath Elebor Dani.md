@@ -26,12 +26,16 @@
 - Can communicate with and possess astral magic users
 - Created new forms of astral magic (Wisdom, Pyro, Catalyst, Decay)  
 ## Relationships
+## Relationships
 ### Family
-- Grandfather of [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]]
-- Father of [[Amalon Wiki/Characters/Minor Characters/Grundal Elebor Dani\|Grundal Elebor Dani]]
+- **[[Amalon Wiki/Characters/Minor Characters/Grundal Elebor Dani\|Grundal Elebor Dani]]**: Son
+- **[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]]**: Granddaughter
+
 ### Associates
-- Views [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]] and the astral Mela as rivals for his granddaughter's loyalty
-- Considered a traitor and criminal by Valomor's council
+- **[[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]] and Astral Mela**: Viewed as rivals for [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]] 's loyalty
+
+### Enemies
+- Valomor's Council: Condemned him for unethical magical research
 ## Notable Events
 - Executed by Valomor for crimes related to his astral magic research
 - Transfers part of his soul into [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] when she finds his hidden study

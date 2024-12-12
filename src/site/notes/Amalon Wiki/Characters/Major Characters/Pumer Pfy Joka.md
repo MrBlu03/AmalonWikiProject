@@ -26,13 +26,18 @@ Originally from Ervenia, [[Amalon Wiki/Characters/Major Characters/Pumer Pfy Jok
 - Talented at sneaking and theft
 - Could expertly assess and repair weapons
 ## Relationships
+## Relationships
 ### Family
 - No known relatives
+
 ### Associates
-- [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]] (best friend)
-- [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]] (friend and accomplice)
-- [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]] (friend)
-- [[Amalon Wiki/Characters/Major Characters/Ryo Bin\|Ryo Bin]] (eventual killer)
+- **[[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]]**: Best friend and Drunken Sails tavern owner
+- **[[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]]**: Friend and magical accomplice
+- **[[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]]**: Friend and fellow tavern patron
+- **[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]]**: Occasional tavern patron
+
+### Enemies
+- **[[Amalon Wiki/Characters/Major Characters/Ryo Bin\|Ryo Bin]]**: Assassin responsible for his death
 ## Notable Events
 - Design and construction of the Drunken Sails tavern
 - Theft and restoration of the Gilded Sword

@@ -26,13 +26,19 @@
 - Able to perceive visions of the future and the mysterious Astral Throne
 - Uses sound magic through kula playing to affect the physical world
 ## Relationships
+## Relationships
 ### Family
-- Daughter of [[Amalon Wiki/Characters/Minor Characters/Grundal Elebor Dani\|Grundal Elebor Dani]] 
-- Granddaughter of the notorious sorcerer [[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath Elebor Dani]]
+- **[[Amalon Wiki/Characters/Minor Characters/Grundal Elebor Dani\|Grundal Elebor Dani]]**: Father
+- **[[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath Elebor Dani]]**: Grandfather (deceased, spiritual presence)
+
 ### Associates
-- Apprentice and successor to [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]]
-- Bard and friend of [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]]
-- Pawn in a power struggle between the astral Mela and [[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath's]] soul
+- **[[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]]**: Mentor and predecessor, passed Astral powers to her
+- **[[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]]**: Friend and tavern owner
+- **[[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]]**: Magical advisor and ally
+
+### Spiritual Influences
+- Astral Mela: Supernatural entity bonded to her
+- [[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath Elebor Dani]] 's soul: Influencing her magical development
 ## Notable Events
 - Received the astral Mela from [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] in a magical transference 
 - Explored [[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath's]] hidden study and uncovered his secret research
