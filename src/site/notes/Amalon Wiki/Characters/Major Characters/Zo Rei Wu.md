@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/amalon-wiki/characters/major-characters/zo-rei-wu/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-I'll modify the text to ensure that when only a first name is mentioned, it links to the full name while preserving the original text. Here's the updated version:
-
 ## Overview
 [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]] is an eccentric Ervenian enchanter who aids the protagonists with his vast magical knowledge. His experiments with portal magic, realm travel, and the mysterious grotls make him a valuable if unpredictable ally.
 
