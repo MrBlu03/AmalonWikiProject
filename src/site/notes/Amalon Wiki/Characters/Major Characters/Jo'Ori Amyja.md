@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]] is the owner and keeper of the Drunken Sails tavern in [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]. Despite being an immigrant, he managed to establish one of the most popular establishments in the region, known for welcoming all patrons regardless of their origin - a rarity in the xenophobic [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|Vilgmeri]] society.
+[[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]] is the owner and keeper of [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]] in [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]. Despite being an immigrant, he managed to establish one of the most popular establishments in the region, known for welcoming all patrons regardless of their origin - a rarity in the xenophobic [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|Vilgmeri]] society.
 
 ## Physical Description
 - Dark hair with slight stubble
@@ -13,7 +13,7 @@
 - Recently polished black shoes
 
 ## Background
-Born to immigrant parents from [[Var\|Var]] who later died defending [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]] during the war. Grew up as an orphan in [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], facing discrimination due to his foreign origins. Despite the challenges, he managed to establish the Drunken Sails tavern, which became a safe haven for both locals and outsiders. The tavern was enchanted by [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]] to protect it from damage.
+Born to immigrant parents from [[Var\|Var]] who later died defending [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]] during the war. Grew up as an orphan in [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], facing discrimination due to his foreign origins. Despite the challenges, he managed to establish [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]], which became a safe haven for both locals and outsiders. The tavern was enchanted by [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]] to protect it from damage.
 
 ## Personality
 - Kind and welcoming to all, regardless of origin
@@ -41,14 +41,14 @@ Born to immigrant parents from [[Var\|Var]] who later died defending [[Amalon Wi
 - **[[Amalon Wiki/Characters/Major Characters/Pumer Pfy Joka\|Pumer Pfy Joka]]**: Best friend and regular tavern patron, deceased
 - **[[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]]**: Trusted friend and tavern patron
 - **[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]]**: Tavern bard and friend
-- **[[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]]**: Magical ally who enchanted the Drunken Sails tavern
+- **[[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]]**: Magical ally who enchanted [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]]
 - **[[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]]**: Ally and occasional tavern patron
 
 ### Enemies
 - **[[Amalon Wiki/Characters/Major Characters/Ryo Bin\|Ryo Bin]]**: Banned from the tavern, responsible for Pumer's death
 
 ## Notable Events
-- Establishment of the Drunken Sails tavern
+- Establishment of [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|the Drunken Sails tavern]]
 - Death of his friend Pumer
 - Housing and helping [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] and [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]]
 

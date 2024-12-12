@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]] was a duelist from [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]] who became bonded with a powerful Astral being. After defeating the corrupt magistrate Aradoth and preventing a war against [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], he retired from fighting and eventually passed his Astral to [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]], choosing to live a peaceful life at the Drunken Sails tavern.
+[[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]] was a duelist from [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]] who became bonded with a powerful Astral being. After defeating the corrupt magistrate Aradoth and preventing a war against [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], he retired from fighting and eventually passed his Astral to [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]], choosing to live a peaceful life at [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|the Drunken Sails tavern]].
 
 ## Physical Description
 - Purple glowing eyes (when using Astral powers)
@@ -40,7 +40,7 @@ Born and raised in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]], [[Am
 
 ### Associates
 - **[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]]**: Student and successor, passed Astral powers to her
-- **[[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]]**: Friend, frequent patron of the Drunken Sails tavern
+- **[[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]]**: Friend, frequent patron of [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|the Drunken Sails tavern]]
 - **[[Amalon Wiki/Characters/Major Characters/Pumer Pfy Joka\|Pumer Pfy Joka]]**: Deceased friend
 - **[[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]]**: Deceased friend and ally
 - **[[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]]**: Magical ally and advisor
@@ -59,7 +59,7 @@ Born and raised in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]], [[Am
 - Only known person to willingly give up an Astral bond
 - Never visited [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth's]] or [[Amalon Wiki/Characters/Major Characters/Pumer Pfy Joka\|Pumer's]] grave after their deaths
 - Chose to live as a regular person despite once having immortal powers
-- Spends retirement fishing and drinking at the Drunken Sails
+- Spends retirement fishing and drinking at [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]]
 
 ## References
 - "Tales of Amalon: The Four Kingdoms"

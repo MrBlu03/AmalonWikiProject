@@ -15,13 +15,13 @@
 ## Relationships
 ### Associates
 - Works alongside [[Amalon Wiki/Characters/Minor Characters/Daqtar Hefr\|Daqtar Hefr]] (weekday chef)
-- Employed by [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori]] at the Drunken Sails tavern
+- Employed by [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori]] at [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]]
 
 ## Notable Events
 - Helps maintain the tavern's high satisfaction rate through his cooking
 
 ## Trivia
-- Works weekends at the Drunken Sails
+- Works weekends at [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]]
 - Part of the culinary team responsible for the tavern's 97% satisfaction rate
 
 ## References
