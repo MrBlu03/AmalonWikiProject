@@ -8,10 +8,10 @@ Welcome to the comprehensive guide to Amalon, a vast continent where magic and t
 
 ## The Four Great Kingdoms
 
-- **[[Amalon Wiki/The Kingdoms/High Valomor/1 - High Valomor\|1 - High Valomor]]** - Land of astral magic and scholarly pursuit, where the mystical arts are studied and mastered within towering spires
-- **[[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/1 - R'oth Vilgmeri\|1 - R'oth Vilgmeri]]** - A proud technological nation guarded by the ancient Four towers, where innovation and nationalism run deep
-- **[[Amalon Wiki/The Kingdoms/Ervenia/1 - Ervenia\|1 - Ervenia]]** - Realm of natural harmony and enchantment, where magic flows through the very fabric of society
-- **[[Amalon Wiki/The Kingdoms/Gilded Juval/1 - Gilded Juval\|1 - Gilded Juval]]** - Kingdom of wealth and intrigue, where gold flows like water and assassins move in the shadows
+- **[[Amalon Wiki/The Kingdoms/High Valomor/High Valomor\|High Valomor]]** - Land of astral magic and scholarly pursuit, where the mystical arts are studied and mastered within towering spires
+- **[[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'oth Vilgmeri]]** - A proud technological nation guarded by the ancient Four towers, where innovation and nationalism run deep
+- **[[Amalon Wiki/The Kingdoms/Ervenia/Ervenia\|Ervenia]]** - Realm of natural harmony and enchantment, where magic flows through the very fabric of society
+- **[[Amalon Wiki/The Kingdoms/Gilded Juval/Gilded Juval\|Gilded Juval]]** - Kingdom of wealth and intrigue, where gold flows like water and assassins move in the shadows
 
 ## Magic & Technology 
 
@@ -33,5 +33,3 @@ The balance of power between the kingdoms remains precarious following recent co
 ---
 
 *"The tales of Amalon are countless, its mysteries deep, and its future uncertain. What role will you play in its unfolding story?"*
-
-[Explore Categories] | [Timeline] | [Characters] | [Maps] | [Contribute]
