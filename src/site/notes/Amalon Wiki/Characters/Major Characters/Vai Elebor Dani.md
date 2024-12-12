@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]], a skilled sorcerer from [[Amalon Wiki/The Kingdoms/High Valomor/High Valomor\|High Valomor]], inherited the astral Mela from [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] and embarked on a journey to uncover the secrets of the Astral Throne. Her quest led her to confront dark forces and her own growing power.
+[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]], a skilled sorcerer from [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]], inherited the astral Mela from [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] and embarked on a journey to uncover the secrets of the Astral Throne. Her quest led her to confront dark forces and her own growing power.
 
 ## Physical Description
 - Young woman with dark hair
@@ -11,7 +11,7 @@
 - Carries a kula (multi-string wood instrument)
 
 ## Background
-[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] grew up in [[Amalon Wiki/The Kingdoms/High Valomor/High Valomor\|High Valomor]], studying astral magic from a young age. At fifteen, she began working at [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori's]] tavern as a bard. When [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] passed on the astral Mela to her, [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] dedicated herself to mastering its power and understanding the visions of the Astral Throne that haunted her.
+[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] grew up in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]], studying astral magic from a young age. At fifteen, she began working at [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori's]] tavern as a bard. When [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] passed on the astral Mela to her, [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] dedicated herself to mastering its power and understanding the visions of the Astral Throne that haunted her.
 
 ## Personality 
 - Ambitious and driven to become a powerful sorcerer
@@ -53,7 +53,7 @@
 
 ## Trivia
 - One of the only sorcerers able to bond with an astral directly
-- Honed her musical magic as a tavern bard in [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'Oth Vilgmeri]]  
+- Honed her musical magic as a tavern bard in [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]  
 - Unintentionally channeled [[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath's]] soul when accessing Mela's power
 - Her kula playing can hypnotize listeners and manifest physical sound constructs
 

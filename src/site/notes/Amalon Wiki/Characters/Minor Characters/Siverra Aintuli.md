@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Minor Characters/Siverra Aintuli\|Siverra Aintuli]] was the mother of [[Amalon Wiki/Characters/Minor Characters/Ynis Lezvor Aintuli\|Ynis Lezvor Aintuli]], who became an influential and controversial figure in [[Amalon Wiki/The Kingdoms/Gilded Juval/Gilded Juval\|Juval's]] politics. Her significance lies primarily in her role as parent to one of Juval's most notable historical figures.
+[[Amalon Wiki/Characters/Minor Characters/Siverra Aintuli\|Siverra Aintuli]] was the mother of [[Amalon Wiki/Characters/Minor Characters/Ynis Lezvor Aintuli\|Ynis Lezvor Aintuli]], who became an influential and controversial figure in [[Amalon Wiki/The Kingdoms/Gilded Juval\|Juval's]] politics. Her significance lies primarily in her role as parent to one of Juval's most notable historical figures.
 
 ## Relationships
 ### Family
@@ -11,7 +11,7 @@
 - Child: [[Amalon Wiki/Characters/Minor Characters/Ynis Lezvor Aintuli\|Ynis Lezvor Aintuli]] (born 7 years after King Tegrot's coronation)
 
 ### Associates
-- Connected to [[Amalon Wiki/The Kingdoms/Gilded Juval/Gilded Juval\|Juval's]] society during King Tegrot's reign
+- Connected to [[Amalon Wiki/The Kingdoms/Gilded Juval\|Juval's]] society during King Tegrot's reign
 
 ## Notable Events
 - Parent to [[Amalon Wiki/Characters/Minor Characters/Ynis Lezvor Aintuli\|Ynis Lezvor Aintuli]], who would later become a significant political figure in Juval's history

@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Minor Characters/Ihre J'Ato\|Ihre J'Ato]] was a recurring customer at [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori's]] tavern in [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'Oth Vilgmeri]] who was killed by [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]]. He was a man struggling with poverty who turned to theft to support his family.
+[[Amalon Wiki/Characters/Minor Characters/Ihre J'Ato\|Ihre J'Ato]] was a recurring customer at [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori's]] tavern in [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]] who was killed by [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]]. He was a man struggling with poverty who turned to theft to support his family.
 
 ## Background
 - Regular customer at the Drunken Sails tavern for eight years
@@ -28,7 +28,7 @@
 ## Notable Events
 - Stole weapons from the tavern's safe
 - Was confronted and killed by [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] using  [[Amalon Wiki/Magic and Technology/Astral Magic\|astral magic]]
-- His death prompted an investigation by [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'Oth Vilgmeri]] officers
+- His death prompted an investigation by [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]] officers
 - His death caused tension between [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori]] and [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]]
 
 ## Trivia

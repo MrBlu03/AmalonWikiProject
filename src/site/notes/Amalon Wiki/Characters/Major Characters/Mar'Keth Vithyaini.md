@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]] was a distinguished soldier of [[Amalon Wiki/The Kingdoms/Gilded Juval/Gilded Juval\|Gilded Juval]] 's Silver Army and leader of the Juyva One division. His journey from loyal soldier to truth-seeker exposed corruption within [[Amalon Wiki/The Kingdoms/Gilded Juval/Gilded Juval\|Gilded Juval]] 's military and prevented a major war between [[Amalon Wiki/The Kingdoms/High Valomor/High Valomor\|High Valomor]] and [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'Oth Vilgmeri]].
+[[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]] was a distinguished soldier of [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]] 's Silver Army and leader of the Juyva One division. His journey from loyal soldier to truth-seeker exposed corruption within [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]] 's military and prevented a major war between [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]] and [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]].
 
 ## Physical Description
 - Black wool cape
@@ -15,7 +15,7 @@
 ## Background
 [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]] was adopted at a young age by a wealthy family who later gave him away to another affluent family. He chose to join the military rather than follow his second adoptive family's wishes. Mar'Keth rose through the ranks to become leader of the prestigious Juyva One division.
 
-During a diplomatic mission, Mar'Keth's squad was ambushed and killed, leaving him as the sole survivor. In the aftermath, he began uncovering clues pointing to corruption within [[Amalon Wiki/The Kingdoms/Gilded Juval/Gilded Juval\|Gilded Juval]] 's military leadership. His subsequent investigation exposed a conspiracy to secretly instigate war between nations, a plot he eventually helped to prevent.
+During a diplomatic mission, Mar'Keth's squad was ambushed and killed, leaving him as the sole survivor. In the aftermath, he began uncovering clues pointing to corruption within [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]] 's military leadership. His subsequent investigation exposed a conspiracy to secretly instigate war between nations, a plot he eventually helped to prevent.
 
 ## Personality
 - Values honor but recognizes its limitations in combat

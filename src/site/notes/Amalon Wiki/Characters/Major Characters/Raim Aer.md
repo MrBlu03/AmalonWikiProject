@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]] was a duelist from [[Amalon Wiki/The Kingdoms/High Valomor/High Valomor\|High Valomor]] who became bonded with a powerful Astral being. After defeating the corrupt magistrate Aradoth and preventing a war against [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'Oth Vilgmeri]], he retired from fighting and eventually passed his Astral to [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]], choosing to live a peaceful life at the Drunken Sails tavern.
+[[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]] was a duelist from [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]] who became bonded with a powerful Astral being. After defeating the corrupt magistrate Aradoth and preventing a war against [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], he retired from fighting and eventually passed his Astral to [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]], choosing to live a peaceful life at the Drunken Sails tavern.
 
 ## Physical Description
 - Purple glowing eyes (when using Astral powers)
@@ -12,7 +12,7 @@
 - Distinguished duelist's bearing
 
 ## Background
-Born and raised in [[Amalon Wiki/The Kingdoms/High Valomor/High Valomor\|High Valomor]], [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] trained as a duelist in the Almari combat arts. During an interrupted ritual, he became bonded with a powerful Astral being named Mela. After uncovering Aradoth's plot to invade [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'Oth Vilgmeri]], he helped defeat the corrupt magistrate and prevent war. Later chose to retire from fighting and passed his Astral powers to [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]].
+Born and raised in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]], [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] trained as a duelist in the Almari combat arts. During an interrupted ritual, he became bonded with a powerful Astral being named Mela. After uncovering Aradoth's plot to invade [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], he helped defeat the corrupt magistrate and prevent war. Later chose to retire from fighting and passed his Astral powers to [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]].
 
 ## Personality
 - Values peace over conflict
@@ -51,7 +51,7 @@ Born and raised in [[Amalon Wiki/The Kingdoms/High Valomor/High Valomor\|High Va
 ## Notable Events
 - Bonding with the Astral Mela
 - Defeat of Aradoth
-- Prevention of war between [[Amalon Wiki/The Kingdoms/High Valomor/High Valomor\|High Valomor]] and [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'Oth Vilgmeri]]
+- Prevention of war between [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]] and [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]
 - Passing the Astral to [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]]
 - Loss of leg in combat with corrupted [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]]
 

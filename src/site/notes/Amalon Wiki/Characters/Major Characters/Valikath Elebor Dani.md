@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath Elebor Dani]] was a notorious [[Amalon Wiki/The Kingdoms/High Valomor/High Valomor\|Valomorian]] scholar and sorcerer who pushed the boundaries of [[Amalon Wiki/Magic and Technology/Astral Magic\|astral magic]]. Even after his execution for unethical experiments, his soul lingered on, seeking to manipulate his granddaughter [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] to finish his work.
+[[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath Elebor Dani]] was a notorious [[Amalon Wiki/The Kingdoms/High Valomor\|Valomorian]] scholar and sorcerer who pushed the boundaries of [[Amalon Wiki/Magic and Technology/Astral Magic\|astral magic]]. Even after his execution for unethical experiments, his soul lingered on, seeking to manipulate his granddaughter [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] to finish his work.
 
 ## Physical Description
 - Elderly man with a long beard
@@ -12,7 +12,7 @@
 - Appears as a ghostly figure or disembodied voice
 
 ## Background
-[[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath]] was a pioneering researcher of [[Amalon Wiki/Magic and Technology/Astral Magic\|astral magic]] in [[Amalon Wiki/The Kingdoms/High Valomor/High Valomor\|High Valomor]]. His experiments grew increasingly unethical, leading to his condemnation and execution by [[Amalon Wiki/The Kingdoms/High Valomor/High Valomor\|Valomor's]] council. However, through dark magic, [[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath]] tethered his soul to the astral realm, allowing him to reach out and influence his descendants.
+[[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath]] was a pioneering researcher of [[Amalon Wiki/Magic and Technology/Astral Magic\|astral magic]] in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]]. His experiments grew increasingly unethical, leading to his condemnation and execution by [[Amalon Wiki/The Kingdoms/High Valomor\|Valomor's]] council. However, through dark magic, [[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath]] tethered his soul to the astral realm, allowing him to reach out and influence his descendants.
 
 ## Personality
 - Brilliant but amoral in his pursuit of magical knowledge
@@ -40,10 +40,10 @@
 - **[[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]] and Astral Mela**: Viewed as rivals for [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]] 's loyalty
 
 ### Enemies
-- [[Amalon Wiki/The Kingdoms/High Valomor/High Valomor\|Valomor's]] Council: Condemned him for unethical magical research
+- [[Amalon Wiki/The Kingdoms/High Valomor\|Valomor's]] Council: Condemned him for unethical magical research
 
 ## Notable Events
-- Executed by [[Amalon Wiki/The Kingdoms/High Valomor/High Valomor\|Valomor]] for crimes related to his [[Amalon Wiki/Magic and Technology/Astral Magic\|astral magic]] research
+- Executed by [[Amalon Wiki/The Kingdoms/High Valomor\|Valomor]] for crimes related to his [[Amalon Wiki/Magic and Technology/Astral Magic\|astral magic]] research
 - Transfers part of his soul into [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] when she finds his hidden study
 - Manipulates [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] to continue his work and seek the Astral Throne
 

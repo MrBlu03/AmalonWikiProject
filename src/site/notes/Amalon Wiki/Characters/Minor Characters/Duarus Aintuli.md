@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Minor Characters/Duarus Aintuli\|Duarus Aintuli]] was the father of [[Amalon Wiki/Characters/Minor Characters/Ynis Lezvor Aintuli\|Ynis Lezvor Aintuli]], who would become an influential figure in [[Amalon Wiki/The Kingdoms/Gilded Juval/Gilded Juval\|Gilded Juval's]] politics. His significance lies primarily in his role as parent to one of Juval's most controversial historical figures.
+[[Amalon Wiki/Characters/Minor Characters/Duarus Aintuli\|Duarus Aintuli]] was the father of [[Amalon Wiki/Characters/Minor Characters/Ynis Lezvor Aintuli\|Ynis Lezvor Aintuli]], who would become an influential figure in [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval's]] politics. His significance lies primarily in his role as parent to one of Juval's most controversial historical figures.
 
 ## Physical Description
 - No physical description provided in source material
@@ -14,7 +14,7 @@
 - Child: [[Amalon Wiki/Characters/Minor Characters/Ynis Lezvor Aintuli\|Ynis Lezvor Aintuli]] (born 7 years after King Tegrot's coronation)
 
 ### Associates
-- Connected to [[Amalon Wiki/The Kingdoms/Gilded Juval/Gilded Juval\|Juval's]] society during King Tegrot's reign
+- Connected to [[Amalon Wiki/The Kingdoms/Gilded Juval\|Juval's]] society during King Tegrot's reign
 
 ## Notable Events
 - Parent to [[Amalon Wiki/Characters/Minor Characters/Ynis Lezvor Aintuli\|Ynis Lezvor Aintuli]], who would later become a significant political figure and controversial character in Juval's history

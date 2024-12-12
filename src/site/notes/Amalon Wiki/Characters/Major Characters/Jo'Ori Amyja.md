@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]] is the owner and keeper of the Drunken Sails tavern in [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'Oth Vilgmeri]]. Despite being an immigrant, he managed to establish one of the most popular establishments in the region, known for welcoming all patrons regardless of their origin - a rarity in the xenophobic [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|Vilgmeri]] society.
+[[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]] is the owner and keeper of the Drunken Sails tavern in [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]. Despite being an immigrant, he managed to establish one of the most popular establishments in the region, known for welcoming all patrons regardless of their origin - a rarity in the xenophobic [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|Vilgmeri]] society.
 
 ## Physical Description
 - Dark hair with slight stubble
@@ -13,13 +13,13 @@
 - Recently polished black shoes
 
 ## Background
-Born to immigrant parents from [[Var\|Var]] who later died defending [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'Oth Vilgmeri]] during the war. Grew up as an orphan in [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'Oth Vilgmeri]], facing discrimination due to his foreign origins. Despite the challenges, he managed to establish the Drunken Sails tavern, which became a safe haven for both locals and outsiders. The tavern was enchanted by [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]] to protect it from damage.
+Born to immigrant parents from [[Var\|Var]] who later died defending [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]] during the war. Grew up as an orphan in [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], facing discrimination due to his foreign origins. Despite the challenges, he managed to establish the Drunken Sails tavern, which became a safe haven for both locals and outsiders. The tavern was enchanted by [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]] to protect it from damage.
 
 ## Personality
 - Kind and welcoming to all, regardless of origin
 - Protective of his patrons and establishment
 - Shows strong loyalty to friends
-- Despite living in xenophobic [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'Oth Vilgmeri]], maintains an accepting attitude
+- Despite living in xenophobic [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], maintains an accepting attitude
 - Holds deep emotional attachments to those close to him
 - Practical and level-headed in crisis situations
 - Almost always avoids violence, favoring words instead.
@@ -34,7 +34,7 @@ Born to immigrant parents from [[Var\|Var]] who later died defending [[Amalon Wi
 
 ## Relationships
 ### Family
-- Parents (deceased) - Immigrants from [[Var\|Var]] who died defending [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'Oth Vilgmeri]]
+- Parents (deceased) - Immigrants from [[Var\|Var]] who died defending [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]
 - No other known relatives
 
 ### Associates

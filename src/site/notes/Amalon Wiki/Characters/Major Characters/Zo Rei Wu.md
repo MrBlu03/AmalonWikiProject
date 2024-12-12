@@ -3,15 +3,15 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]] is an eccentric [[Amalon Wiki/The Kingdoms/Ervenia/Ervenia\|Ervenian]] enchanter who aids the protagonists with his vast magical knowledge. His experiments with portal magic, realm travel, and the mysterious grotls make him a valuable if unpredictable ally.
+[[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]] is an eccentric [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenian]] enchanter who aids the protagonists with his vast magical knowledge. His experiments with portal magic, realm travel, and the mysterious grotls make him a valuable if unpredictable ally.
 
 ## Physical Description
 - Older man with wild hair and bright blue eyes
 - Wears dirty white robes and worn black shoes
-- Skin darker than average [[Amalon Wiki/The Kingdoms/Ervenia/Ervenia\|Ervenians]]
+- Skin darker than average [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenians]]
 
 ## Background
-Born into a family disdainful of magic, [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Wu]] became fascinated by [[Amalon Wiki/Magic and Technology/Ervenian Enchanting\|enchanting]] at a young age. He left home to study magic, traveling across realms and planes. [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Wu]] settled in a secluded [[Amalon Wiki/The Kingdoms/Ervenia/Ervenia\|Ervenian]] house, filling it with magical experiments and portals to other worlds.
+Born into a family disdainful of magic, [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Wu]] became fascinated by [[Amalon Wiki/Magic and Technology/Ervenian Enchanting\|enchanting]] at a young age. He left home to study magic, traveling across realms and planes. [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Wu]] settled in a secluded [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenian]] house, filling it with magical experiments and portals to other worlds.
 
 ## Personality 
 - Intensely curious and scholarly, sometimes to a fault
@@ -57,7 +57,7 @@ Born into a family disdainful of magic, [[Amalon Wiki/Characters/Major Character
 - His home contains portals to many realms, including some thought mythical
 - Keeps a library of rare enchanting texts and artifacts
 - Many of his experiments have nearly caused magical catastrophes  
-- Wanted by [[Amalon Wiki/The Kingdoms/Ervenia/Ervenia\|Ervenian]] authorities for illegal realm tampering
+- Wanted by [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenian]] authorities for illegal realm tampering
 
 ## References
 - "Zo Rei Wu The Mischievous Enchanter"
