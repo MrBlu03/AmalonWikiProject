@@ -13,7 +13,7 @@ Welcome to the comprehensive guide to Amalon, a vast continent where magic and t
 
 ## Magic & Technology 
 Amalon is a world where multiple forms of magic coexist alongside advancing technology:
-- **Astral Magic** - The mysterious power studied in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]]
+- **[[Amalon Wiki/Magic and Technology/Astral Magic\|Astral Magic]]** - The mysterious power studied in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]]
 - **[[Amalon Wiki/Magic and Technology/Ervenian Enchanting\|Ervenian Enchanting]]** - The dual magical traditions of [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]]
 - **[[Amalon Wiki/Magic and Technology/Clockwork Technology\|Clockwork Technology]]** - The innovative mechanical advances of [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]
 - **[[Amalon Wiki/Magic and Technology/Aegis Technology\|Aegis Technology]]** - Underground developments by the [[Amalon Wiki/Organisations/Assassin’s Guild\|Assassin’s Guild]]
