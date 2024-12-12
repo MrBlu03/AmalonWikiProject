@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Minor Characters/Ynis Lezvor Aintuli\|Ynis Lezvor Aintuli]] was a brilliant but controversial political figure in Gilded Juval's history who rose from academic excellence to become one of the most influential and narcissistic leaders of his time. His political machinations and trade schemes fundamentally changed Juval's economy and relationship with R'Oth Vilgmeri, though his reign ended in mysterious assassination.
+[[Amalon Wiki/Characters/Minor Characters/Ynis Lezvor Aintuli\|Ynis Lezvor Aintuli]] was a brilliant but controversial political figure in [[Amalon Wiki/The Kingdoms/Gilded Juval/Gilded Juval\|Juval's]] history who rose from academic excellence to become one of the most influential and narcissistic leaders of his time. His political machinations and trade schemes fundamentally changed Juval's economy and relationship with [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'Oth Vilgmeri]], though his reign ended in mysterious assassination.
 
 ## Background
 - Born 7 years after King Tegrot's coronation to [[Amalon Wiki/Characters/Minor Characters/Duarus Aintuli\|Duarus]] and [[Amalon Wiki/Characters/Minor Characters/Siverra Aintuli\|Siverra]] Aintuli
@@ -13,7 +13,7 @@
 - By age 20, became deeply involved in politics and was elected as representative for the lower class
 - Implemented major changes to improve living conditions within 6 months of taking office
 - Later began siphoning money from poor citizens' taxes
-- Established major trade relationships with R'Oth Vilgmeri
+- Established major trade relationships with [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'Oth Vilgmeri]]
 - Founded the city of Jua La Va
 - Assassinated in his bed by unknown assailant with a golden sword
 
@@ -37,10 +37,10 @@
 
 ### Associates
 - Worked with both poor and wealthy classes
-- Established trade relationships with R'Oth Vilgmeri
+- Established trade relationships with [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'Oth Vilgmeri]]
 
 ## Notable Events
-- Creation of major trade routes with R'Oth Vilgmeri
+- Creation of major trade routes with [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'Oth Vilgmeri]]
 - Founding of Jua La Va
 - Implementation of tax schemes targeting poor citizens
 - Mysterious assassination in his bed
@@ -53,4 +53,4 @@
 
 ## References
 - Featured in "Aintuli" document
-- Referenced in various documents about Gilded Juval's history
+- Referenced in various documents about [[Amalon Wiki/The Kingdoms/Gilded Juval/Gilded Juval\|Juval's]] history

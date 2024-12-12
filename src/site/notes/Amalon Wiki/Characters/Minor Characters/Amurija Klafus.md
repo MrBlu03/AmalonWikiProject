@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/amalon-wiki/characters/minor-characters/amurija-klafus/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-I'll process the text and replace the character names with their appropriate Markdown links:
-
 ## Overview
 [[Amalon Wiki/Characters/Minor Characters/Amurija Klafus\|Amurija Klafus]] is the leader of the grotls in Vjani'thar, a different realm where [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]] conducts his research. He appears to be a figure of authority among the grotls who was eventually affected by [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Wu's]] enchantments.
 

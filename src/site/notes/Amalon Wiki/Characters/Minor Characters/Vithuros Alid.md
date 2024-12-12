@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Minor Characters/Vithuros Alid\|Vithuros Alid]] is one of the two main chefs at the Drunken Sails tavern in R'Oth Vilgmeri, working weekends. Along with [[Amalon Wiki/Characters/Minor Characters/Daqtar Hefr\|Daqtar Hefr]], he is responsible for maintaining the tavern's impressive 97% satisfaction rate with their culinary offerings.
+[[Amalon Wiki/Characters/Minor Characters/Vithuros Alid\|Vithuros Alid]] is one of the two main chefs at the Drunken Sails tavern in [[Amalon Wiki/The Kingdoms/R'Oth Vilgmeri/R'oth Vilgmeri\|R'Oth Vilgmeri]], working weekends. Along with [[Amalon Wiki/Characters/Minor Characters/Daqtar Hefr\|Daqtar Hefr]], he is responsible for maintaining the tavern's impressive 97% satisfaction rate with their culinary offerings.
 
 ## Abilities
 ### Culinary Skills
