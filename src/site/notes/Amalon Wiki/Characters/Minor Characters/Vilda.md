@@ -30,7 +30,7 @@ Vilda earned her reputation during the conflicts between [[Amalon Wiki/The Kingd
 - Renowned for her ability to adapt fighting styles to individual students
 
 ### Magic/Special Powers
-- Proficient understanding of [[Amalon Wiki/Magic and Technology/Astral Magic\|Astral Magic]] integration in combat
+- Proficient understanding of [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]] integration in combat
 - Focused on practical applications rather than theoretical magic
 
 ## Relationships

@@ -11,7 +11,7 @@
 - Skin darker than average [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenians]]
 
 ## Background
-Born into a family disdainful of magic, [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Wu]] became fascinated by [[Amalon Wiki/Magic and Technology/Ervenian Enchanting\|enchanting]] at a young age. He left home to study magic, traveling across realms and planes. [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Wu]] settled in a secluded [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenian]] house, filling it with magical experiments and portals to other worlds.
+Born into a family disdainful of magic, [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Wu]] became fascinated by [[Magic and Technology/Magic Systems/Ervenian Enchanting\|enchanting]] at a young age. He left home to study magic, traveling across realms and planes. [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Wu]] settled in a secluded [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenian]] house, filling it with magical experiments and portals to other worlds.
 
 ## Personality 
 - Intensely curious and scholarly, sometimes to a fault
@@ -26,7 +26,7 @@ Born into a family disdainful of magic, [[Amalon Wiki/Characters/Major Character
 - Relies entirely on magic for offense and defense
 
 ### Magic/Special Powers
-- Master of [[Amalon Wiki/Magic and Technology/Ervenian Enchanting\|Ervenian Enchanting]] magic (ithiru, optitari, rynki)
+- Master of [[Magic and Technology/Magic Systems/Ervenian Enchanting\|Ervenian Enchanting]] magic (ithiru, optitari, rynki)
 - Can open portals to other realms, including Vjani'thar 
 - Formed pacts with grotls to serve him
 - Invented new enchantments like state/life tempering 

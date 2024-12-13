@@ -30,7 +30,7 @@ Born to immigrant parents from [[Var\|Var]] who later died defending [[Amalon Wi
 - Skilled at de-escalating violent situations
 
 ### Magic/Special Powers
-- None personally, though his tavern is protected by [[Amalon Wiki/Magic and Technology/Ervenian Enchanting\|Ervenian Enchanting]]
+- None personally, though his tavern is protected by [[Magic and Technology/Magic Systems/Ervenian Enchanting\|Ervenian Enchanting]]
 
 ## Relationships
 ### Family

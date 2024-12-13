@@ -26,7 +26,7 @@ Evordo served as one of [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dan
 - Capable of coordinating with other magistrates
 
 ### Magic/Special Powers
-- Practitioner of [[Amalon Wiki/Magic and Technology/Astral Magic\|Astral Magic]]
+- Practitioner of [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]]
 - Skilled enough to serve as a teacher
 - Combat magic proficiency
 

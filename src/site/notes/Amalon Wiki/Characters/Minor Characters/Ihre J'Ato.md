@@ -8,7 +8,7 @@
 ## Background
 - Regular customer at [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]] for eight years
 - Stole weapons from the [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|tavern's]] safe and sold them to provide for his family
-- Was killed by [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] using [[Amalon Wiki/Magic and Technology/Astral Magic\|Astral Magic]] for his theft
+- Was killed by [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] using [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]] for his theft
 
 ## Personality
 - Desperate to provide for his family
@@ -27,7 +27,7 @@
 
 ## Notable Events
 - Stole weapons from the [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|tavern's]] safe
-- Was confronted and killed by [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] using [[Amalon Wiki/Magic and Technology/Astral Magic\|Astral Magic]]
+- Was confronted and killed by [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] using [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]]
 - His death prompted an investigation by [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]] officers
 - His death caused tension between [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori]] and [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]]
 

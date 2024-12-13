@@ -28,7 +28,7 @@ Originally a gifted student of [[Amalon Wiki/Characters/Major Characters/Valikat
 - Skilled at coordinating large-scale military operations
 
 ### Magic/Special Powers
-- Advanced [[Amalon Wiki/Magic and Technology/Astral Magic\|Astral Magic]] practitioner
+- Advanced [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]] practitioner
 - Capable of devastating magical attacks
 - Command over multiple forms of astral energy
 - Able to enhance others' magical abilities

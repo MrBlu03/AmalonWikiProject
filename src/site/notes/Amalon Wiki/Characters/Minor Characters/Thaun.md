@@ -26,7 +26,7 @@ Thaun trained as a duelist in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valo
 - Skilled in defensive maneuvers
 
 ### Magic/Special Powers
-- Basic [[Amalon Wiki/Magic and Technology/Astral Magic\|Astral Magic]] training typical of [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]] students
+- Basic [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]] training typical of [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]] students
 - Could command astral weapons
 
 ## Relationships

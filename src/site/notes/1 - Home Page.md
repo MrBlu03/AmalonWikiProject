@@ -13,10 +13,10 @@ Welcome to the comprehensive guide to Amalon, a vast continent where magic and t
 
 ## Magic & Technology 
 Amalon is a world where multiple forms of magic coexist alongside advancing technology:
-- **[[Amalon Wiki/Magic and Technology/Astral Magic\|Astral Magic]]** - The mysterious power studied in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]]
-- **[[Amalon Wiki/Magic and Technology/Ervenian Enchanting\|Ervenian Enchanting]]** - The dual magical traditions of [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]]
-- **[[Amalon Wiki/Magic and Technology/Clockwork Technology\|Clockwork Technology]]** - The innovative mechanical advances of [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]
-- **[[Amalon Wiki/Magic and Technology/Aegis Technology\|Aegis Technology]]** - Underground developments by the [[Amalon Wiki/Organisations/Assassin’s Guild\|Assassin’s Guild]]
+- **[[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]]** - The mysterious power studied in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]]
+- **[[Magic and Technology/Magic Systems/Ervenian Enchanting\|Ervenian Enchanting]]** - The dual magical traditions of [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]]
+- **[[Magic and Technology/Technology/Clockwork Technology\|Clockwork Technology]]** - The innovative mechanical advances of [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]
+- **[[Magic and Technology/Technology/Aegis Technology\|Aegis Technology]]** - Underground developments by the [[Amalon Wiki/Organisations/Assassin’s Guild\|Assassin’s Guild]]
 
 ## Key Locations
 From the haunting White Forests to the bustling ports of [[Amalon Wiki/Notable Locations/Jua La Va\|Jua La Va]], from the scholarly halls of [[Amalon Wiki/Notable Locations/Hidden Lowval\|Hidden Lowval]] to the merchant-filled streets of [[Amalon Wiki/Notable Locations/Cusomi\|Cusomi]] - Amalon is filled with unique locations waiting to be explored.
