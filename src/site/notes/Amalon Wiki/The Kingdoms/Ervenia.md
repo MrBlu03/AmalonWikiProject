@@ -10,7 +10,7 @@
 
 **Ervenians have a deep reverence for nature and view it as a guiding force in their lives**. They do not believe in gods or deities but see natural events like rain, drought, and even joy as expressions of nature itself. They believe that the sun and moon are nature's "eyes", watching over the world day and night.
 
-- Every twentieth sunrise, Ervenians participate in a tradition called **Mimito**, where they drink a glass of [[Amalon Wiki/Notable Locations/Jua La Va\|Jua La Va]], a sweet drink made from tree resin and special leaves, to celebrate life. This custom is observed by all Ervenians, regardless of where they live.
+- Every twentieth sunrise, Ervenians participate in a tradition called **Mimito**, where they drink a glass of Yala a sweet drink made from tree resin and special leaves, to celebrate life. This custom is observed by all Ervenians, regardless of where they live.
 
 - Ervenians do not require beds to sleep. Their bodies are flexible, allowing them to sleep in various positions without experiencing back pain.
 
