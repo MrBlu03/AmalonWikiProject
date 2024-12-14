@@ -22,9 +22,9 @@
 
 ### Economy
 
-**[[Amalon Wiki/Notable Locations/Cusomi\|Cusomi]] serves as the central hub of trade and income for [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]]**, facilitating the movement of goods throughout Amalon. They exclusively use gold as currency. The city is known for its bustling trade activities, both day and night.
+**[[Cusomi\|Cusomi]] serves as the central hub of trade and income for [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]]**, facilitating the movement of goods throughout Amalon. They exclusively use gold as currency. The city is known for its bustling trade activities, both day and night.
 
-- The **Trident Act** integrates Ertho Kal, [[Amalon Wiki/Notable Locations/Cusomi\|Cusomi]], and Fiarma Zan into a shared trade segment. Goods imported to one city can be freely redistributed among the others without further inspection.
+- The **Trident Act** integrates Ertho Kal, [[Cusomi\|Cusomi]], and Fiarma Zan into a shared trade segment. Goods imported to one city can be freely redistributed among the others without further inspection.
 
 - Food is a tightly controlled commodity in [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]], with regular inspections by food officials.
 
@@ -38,7 +38,7 @@
 
 - **Deepwoods:** Known for their unsettling nature and the mysterious disappearances of hunters. The Deepwoods are home to Yaebie trees, which are exceptionally durable and regenerate through a unique shedding process. Some believe these trees may be sentient.
 
-- **Coastlines:** With bustling harbours like [[Amalon Wiki/Notable Locations/Cusomi\|Cusomi]] and Ertho Kal, the coastlines are crucial for trade and transportation.
+- **Coastlines:** With bustling harbours like [[Cusomi\|Cusomi]] and Ertho Kal, the coastlines are crucial for trade and transportation.
 
 - **Forests:** [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]] possesses lush forests teeming with various plant and animal life. The Ervenies, the earliest inhabitants of Amalon, developed a strong connection with nature in these forests.
 
@@ -60,7 +60,7 @@
 
 - **Chief (President):** Elected every 75 years from a pool of Divitis. They make decisions that are implemented in [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]] and adopted by coordinated states.
 
-- **Diviti (Vice-president):** Elected officials responsible for the political, economic, and social aspects of governance in their respective cities (Ertho Kal, [[Amalon Wiki/Notable Locations/Cusomi\|Cusomi]], and Fiarma Zan).
+- **Diviti (Vice-president):** Elected officials responsible for the political, economic, and social aspects of governance in their respective cities (Ertho Kal, [[Cusomi\|Cusomi]], and Fiarma Zan).
 
 - **Councilors:** Advise the Divitis but do not have decision-making power.
 
@@ -74,9 +74,9 @@
 
 - **Ertho Kal:** A major port city known for its numerous harbours and bustling trade activities. The **Initho Eza**, a large tower in the city centre, serves as a lighthouse at night, guiding sailors through the misty seas.
 
-- **[[Amalon Wiki/Notable Locations/Cusomi\|Cusomi]]:** The "**Coast of Happiness**," renowned for its trade operations, beautiful scenery, and welcoming atmosphere. Visitors are traditionally greeted with [[Amalon Wiki/Notable Locations/Jua La Va\|Jua La Va]]. [[Amalon Wiki/Notable Locations/Cusomi\|Cusomi]] is also where the first Ervenian laws were written, and it boasts the lowest crime rate in the kingdom.
+- **[[Cusomi\|Cusomi]]:** The "**Coast of Happiness**," renowned for its trade operations, beautiful scenery, and welcoming atmosphere. Visitors are traditionally greeted with [[Jua La Va\|Jua La Va]]. [[Cusomi\|Cusomi]] is also where the first Ervenian laws were written, and it boasts the lowest crime rate in the kingdom.
 
-- **Fiarma Zan:** Known as the "living city" due to its constant change and blend of living and dead nature. The city is famous for its Ervenian cuisine, particularly [[Amalon Wiki/Notable Locations/Jua La Va\|Jua La Va]] and roasted Rima, a green bird native to the region.
+- **Fiarma Zan:** Known as the "living city" due to its constant change and blend of living and dead nature. The city is famous for its Ervenian cuisine, particularly [[Jua La Va\|Jua La Va]] and roasted Rima, a green bird native to the region.
 
 ### Notable Locations
 

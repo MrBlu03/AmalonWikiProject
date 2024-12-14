@@ -14,7 +14,7 @@
 - Implemented major changes to improve living conditions within 6 months of taking office
 - Later began siphoning money from poor citizens' taxes
 - Established major trade relationships with [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]
-- Founded the city of [[Amalon Wiki/Notable Locations/Jua La Va\|Jua La Va]]
+- Founded the city of [[Jua La Va\|Jua La Va]]
 - Assassinated in his bed by unknown assailant with a golden sword
 
 ## Personality

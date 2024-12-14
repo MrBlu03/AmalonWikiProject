@@ -19,7 +19,7 @@ Amalon is a world where multiple forms of magic coexist alongside advancing tech
 - **[[Magic and Technology/Technology/Aegis Technology\|Aegis Technology]]** - Underground developments by the [[Amalon Wiki/Organisations/Assassin’s Guild\|Assassin’s Guild]]
 
 ## Key Locations
-From the haunting White Forests to the bustling ports of [[Amalon Wiki/Notable Locations/Jua La Va\|Jua La Va]], from the scholarly halls of [[Amalon Wiki/Notable Locations/Hidden Lowval\|Hidden Lowval]] to the merchant-filled streets of [[Amalon Wiki/Notable Locations/Cusomi\|Cusomi]] - Amalon is filled with unique locations waiting to be explored.
+From the haunting White Forests to the bustling ports of [[Jua La Va\|Jua La Va]], from the scholarly halls of [[Hidden Lowval\|Hidden Lowval]] to the merchant-filled streets of [[Cusomi\|Cusomi]] - Amalon is filled with unique locations waiting to be explored.
 
 ## Recent Events
 The balance of power between the kingdoms remains precarious following recent conflicts, particularly the short but devastating war between [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]] and [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]. New threats and old prophecies emerge as heroes and villains shape the destiny of this rich fantasy world.

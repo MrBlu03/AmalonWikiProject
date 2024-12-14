@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-A kind-hearted elderly resident of [[Amalon Wiki/Notable Locations/Jua La Va\|Jua La Va]] who has known [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]] since his childhood. She plays a small but significant role in [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]] 's story by tending to his wounds after his return from Harrdmindor and providing him with valuable information about the state of affairs in [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]].
+A kind-hearted elderly resident of [[Jua La Va\|Jua La Va]] who has known [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]] since his childhood. She plays a small but significant role in [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]] 's story by tending to his wounds after his return from Harrdmindor and providing him with valuable information about the state of affairs in [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]].
 
 ## Physical Description
 - Elderly woman with a maternal bearing
@@ -11,7 +11,7 @@ A kind-hearted elderly resident of [[Amalon Wiki/Notable Locations/Jua La Va\|Ju
 - Dresses in traditional [[Amalon Wiki/The Kingdoms/Gilded Juval\|Juvali]] clothing
 
 ## Background
-A long-time resident of [[Amalon Wiki/Notable Locations/Jua La Va\|Jua La Va]], Ejza has lived in the city for at least fifty years. She was known for giving sweets to [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]] when he was younger, establishing herself as a caring figure in his early life. Her knowledge of local events and healing abilities suggest she may have been a healer or medicine woman in the community.
+A long-time resident of [[Jua La Va\|Jua La Va]], Ejza has lived in the city for at least fifty years. She was known for giving sweets to [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]] when he was younger, establishing herself as a caring figure in his early life. Her knowledge of local events and healing abilities suggest she may have been a healer or medicine woman in the community.
 
 ## Personality
 - Nurturing and protective
@@ -32,10 +32,10 @@ A long-time resident of [[Amalon Wiki/Notable Locations/Jua La Va\|Jua La Va]], 
 ## Relationships
 ### Associates
 - Former neighbor to [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]]
-- Connected to the local community in [[Amalon Wiki/Notable Locations/Jua La Va\|Jua La Va]]
+- Connected to the local community in [[Jua La Va\|Jua La Va]]
 
 ## Notable Events
-- Treated [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]] 's wounds upon his return to [[Amalon Wiki/Notable Locations/Jua La Va\|Jua La Va]]
+- Treated [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]] 's wounds upon his return to [[Jua La Va\|Jua La Va]]
 - Provided crucial information about the [[Amalon Wiki/Organisations/Silver Army\|Silver Army]] 's movements
 - One of the few civilians aware of the length of [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]] 's absence
 
