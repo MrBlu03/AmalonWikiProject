@@ -34,7 +34,7 @@ The sources don't explicitly describe the governmental structure of [[Amalon Wik
 ### Cities
 
 - **Almari**: This serene city is home to seasoned duelists and sorcerers, serving as a haven for those who have dedicated their lives to honing their skills and passing on their knowledge. The city's peaceful atmosphere provides an ideal environment for contemplation and reflection, allowing its inhabitants to delve deeper into their chosen disciplines.
-- [[Hidden Lowval\|Hidden Lowval]]: [[Hidden Lowval\|Hidden Lowval]] is a secluded city shrouded in the depths of a forest, serving as a sanctuary for scholars and a training ground for those seeking to master [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]] and combat. The city's isolation provides a protected space for intense study and practice, fostering an environment of focused learning and skill development.
+- [[Hidden Lowval\|Hidden Lowval]] is a secluded city shrouded in the depths of a forest, serving as a sanctuary for scholars and a training ground for those seeking to master [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]] and combat. The city's isolation provides a protected space for intense study and practice, fostering an environment of focused learning and skill development.
 
 ### Notable Locations
 

@@ -3,9 +3,3 @@
 ---
 
 
-<userStyle>Normal</userStyle>
----
-dg-home: false
-dg-publish: true
----
-
