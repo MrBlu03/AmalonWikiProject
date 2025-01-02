@@ -52,6 +52,6 @@ Originally a gifted student of [[Amalon Wiki/Characters/Major Characters/Valikat
 - His defeat marked the end of expansionist ambitions in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]]
 
 ## References
-- Tales of Amalon: The Four Kingdoms
+- Tales of Amalon: [[Amalon Wiki/Notable Locations/The Four\|The Four]] Kingdoms
 - Tales of Amalon: Astral Throne
 - Aradoro, The Omniwarden

@@ -37,7 +37,7 @@ Trained as part of [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]] 's co
 ### Associates
 - Agent of [[Amalon Wiki/Characters/Supporting Characters/Armid'Ro Podati\|Armid'Ro Podati]]
 - Member of [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]] 's covert operations
-- Worked with other assassins including Jerryl
+- Worked with other assassins including [[Amalon Wiki/Characters/Minor Characters/Jerryl\|Jerryl]]
 
 ## Notable Events
 - Successfully seduced [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]] in [[Amalon Wiki/Notable Locations/Harrdmindor\|Harrdmindor]]

@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]] was a duelist from [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]] who became bonded with a powerful Astral being. After defeating the corrupt magistrate Aradoth and preventing a war against [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], he retired from fighting and eventually passed his Astral to [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]], choosing to live a peaceful life at [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|the Drunken Sails tavern]].
+[[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim Aer]] was a duelist from [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]] who became bonded with a powerful Astral being. After defeating the corrupt magistrate [[Amalon Wiki/Characters/Major Characters/Aradoth\|Aradoth]] and preventing a war against [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], he retired from fighting and eventually passed his Astral to [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]], choosing to live a peaceful life at [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|the Drunken Sails tavern]].
 
 ## Physical Description
 - Purple glowing eyes (when using Astral powers)
@@ -12,7 +12,7 @@
 - Distinguished duelist's bearing
 
 ## Background
-Born and raised in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]], [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] trained as a duelist in the Almari combat arts. During an interrupted ritual, he became bonded with a powerful Astral being named Mela. After uncovering Aradoth's plot to invade [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], he helped defeat the corrupt magistrate and prevent war. Later chose to retire from fighting and passed his Astral powers to [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]].
+Born and raised in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]], [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] trained as a duelist in the Almari combat arts. During an interrupted ritual, he became bonded with a powerful Astral being named Mela. After uncovering [[Amalon Wiki/Characters/Major Characters/Aradoth\|Aradoth]]'s plot to invade [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], he helped defeat the corrupt magistrate and prevent war. Later chose to retire from fighting and passed his Astral powers to [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]].
 
 ## Personality
 - Values peace over conflict
@@ -46,11 +46,11 @@ Born and raised in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]], [[Am
 - **[[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]]**: Magical ally and advisor
 
 ### Enemies
-- **Aradoth**: Corrupt magistrate defeated during his key mission
+- **[[Amalon Wiki/Characters/Major Characters/Aradoth\|Aradoth]]**: Corrupt magistrate defeated during his key mission
 
 ## Notable Events
 - Bonding with the Astral Mela
-- Defeat of Aradoth
+- Defeat of [[Amalon Wiki/Characters/Major Characters/Aradoth\|Aradoth]]
 - Prevention of war between [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]] and [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]
 - Passing the Astral to [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]]
 - Loss of leg in combat with corrupted [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]]
@@ -62,5 +62,5 @@ Born and raised in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]], [[Am
 - Spends retirement fishing and drinking at [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]]
 
 ## References
-- "Tales of Amalon: The Four Kingdoms"
+- "Tales of Amalon: [[Amalon Wiki/Notable Locations/The Four\|The Four]] Kingdoms"
 - "Tales of Amalon: Astral Throne"

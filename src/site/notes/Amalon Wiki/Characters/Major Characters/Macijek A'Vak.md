@@ -13,7 +13,7 @@
 - Carries a unique weapon: a whip with blades on both ends
 
 ## Background
-Originally from Vakithan, a poor region of outer Harrdmindor. After supposedly dying in a fall from a cliff during an attempted robbery, he became bound to a death god and gained immortal powers. Since then, he has led the [[Amalon Wiki/Organisations/Brotherhood\|Brotherhood]], spreading fear and collecting faces across the lands.
+Originally from Vakithan, a poor region of outer [[Amalon Wiki/Notable Locations/Harrdmindor\|Harrdmindor]]. After supposedly dying in a fall from a cliff during an attempted robbery, he became bound to a death god and gained immortal powers. Since then, he has led the [[Amalon Wiki/Organisations/Brotherhood\|Brotherhood]], spreading fear and collecting faces across the lands.
 
 ## Personality
 - Unpredictable and erratic behavior
@@ -45,11 +45,11 @@ Originally from Vakithan, a poor region of outer Harrdmindor. After supposedly d
 
 ### Allies and Enemies
 - **[[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]]**: Temporary ally/enemy
-- **Dahra**: Enemy
+- **[[Amalon Wiki/Characters/Major Characters/Dahra\|Dahra]]**: Enemy
 
 ## Notable Events
 - His supposed death and rebirth
-- Battle with [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]] and Dahra
+- Battle with [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]] and [[Amalon Wiki/Characters/Major Characters/Dahra\|Dahra]]
 - Various encounters with [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]] throughout the story
 
 ## Trivia

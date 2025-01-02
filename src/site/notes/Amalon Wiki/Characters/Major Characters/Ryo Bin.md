@@ -8,7 +8,7 @@
 ## Physical Description 
 - Scar on left eye
 - Dark hair
-- Black orna skin color 
+- Black [[Amalon Wiki/Creatures/Orna\|Orna]] skin color 
 - Wears black wool cape
 - Leather gloves and dark brown trousers
 - Time-telling device on wrist

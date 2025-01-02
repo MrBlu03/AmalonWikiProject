@@ -34,7 +34,7 @@ Misthorses are ethereal equine creatures native to the territories controlled by
 - Domestication status: Cannot be traditionally domesticated; only respond to [[Amalon Wiki/Organisations/Brotherhood\|Brotherhood]] control
 - Cultural significance: Symbols of dark power and [[Amalon Wiki/Organisations/Brotherhood\|Brotherhood]] authority
 - Economic value: None, as they cannot be traded or captured
-- Threats to humans: Dangerous when directed by their masters, otherwise avoid non-Brotherhood contact
+- Threats to humans: Dangerous when directed by their masters, otherwise avoid non-[[Amalon Wiki/Organisations/Brotherhood\|Brotherhood]] contact
 
 ## Conservation
 - Population status: Numbers controlled by [[Amalon Wiki/Organisations/Brotherhood\|Brotherhood]] needs

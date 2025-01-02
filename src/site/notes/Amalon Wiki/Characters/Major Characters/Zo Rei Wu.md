@@ -51,7 +51,7 @@ Born into a family disdainful of magic, [[Amalon Wiki/Characters/Major Character
 - Opened a stable portal to Vjani'thar and bound the grotls
 - Helped defend [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori]] 's tavern with Enkrodi Alma armor enchantment
 - Advised [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]] to seek answers about Juval's corruption in Okja
-- Repaired and reactivated the Four gateway towers in Vilgmeri
+- Repaired and reactivated [[Amalon Wiki/Notable Locations/The Four\|The Four]] gateway towers in Vilgmeri
 
 ## Trivia
 - His home contains portals to many realms, including some thought mythical

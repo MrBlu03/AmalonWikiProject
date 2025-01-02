@@ -7,7 +7,7 @@
 ## Regional Cuisines
 
 ### Ervenian Cuisine
-The cuisine of [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]] is perhaps best exemplified in [[Fiarma Zan\|Fiarma Zan]], known throughout Amalon for its distinctive cooking traditions. One of their most celebrated dishes is roasted rima, prepared from a unique green bird native to their inner cities. 
+The cuisine of [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]] is perhaps best exemplified in [[Fiarma Zan\|Fiarma Zan]], known throughout Amalon for its distinctive cooking traditions. One of their most celebrated dishes is roasted [[Amalon Wiki/Creatures/Rima\|Rima]], prepared from a unique green bird native to their inner cities. 
 
 Fishing plays a central role in Ervenian food culture, serving both as sustenance and recreation. The people of [[Fiarma Zan\|Fiarma Zan]] regularly hold fishing competitions, challenging participants to catch a specific amount of fish in the fastest time or land the largest specimen possible within a given timeframe. These competitions are not just about sustenance but form a core part of their recreational activities.
 
@@ -16,10 +16,10 @@ The most culturally significant beverage in Ervenian culture is [[Yala\|Yala]], 
 ## Common Dishes
 
 ### Seafood
-The waters of [[Var Ispar\|Var Ispar]] are home to the twintail fish, which despite being the dominant species in these waters, is ironically known as the least intelligent. This fish features prominently in cuisine across Amalon, prepared in several traditional ways:
-- Dried twintail snacks (a popular tavern fare)
-- Twintail filet with parsley and melted butter (considered a refined preparation)
-- Grilled twintail pluthr with white aiya sauce and greenery (favored by the wealthy class)
+The waters of [[Var Ispar\|Var Ispar]] are home to the [[Amalon Wiki/Creatures/Twintail\|Twintail]] fish, which despite being the dominant species in these waters, is ironically known as the least intelligent. This fish features prominently in cuisine across Amalon, prepared in several traditional ways:
+- Dried [[Amalon Wiki/Creatures/Twintail\|Twintail]] snacks (a popular tavern fare)
+- [[Amalon Wiki/Creatures/Twintail\|Twintail]] filet with parsley and melted butter (considered a refined preparation)
+- Grilled [[Amalon Wiki/Creatures/Twintail\|Twintail]] pluthr with white aiya sauce and greenery (favored by the wealthy class)
 
 ### Meat Dishes
 - Chopped hirmet served with onions and burbari bacon represents hearty traditional fare
@@ -32,7 +32,7 @@ The waters of [[Var Ispar\|Var Ispar]] are home to the twintail fish, which desp
 ### Ales and Spirits
 **[[Visther Ale\|Visther Ale]]** holds particular historical significance. Originally created in [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]], it became the center of a major trade dispute when [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]] adapted the recipe by using syrup instead of the raw plant. This modification proved advantageous as the leftover bark found use in medicine, but the ensuing legal battle over its origin nearly bankrupted [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]] through debts to Juvali.
 
-**Rambish Ale**, named after the wild Rambish found in the northern wilds of the White Forest, offers a unique drinking experience. The initial bitter taste gives way to a spicy sensation that creates what's described as "a strangely pleasurable feeling" in the throat.
+**[[Amalon Wiki/Creatures/Rambish\|Rambish]] Ale**, named after the wild [[Amalon Wiki/Creatures/Rambish\|Rambish]] found in the northern wilds of the White Forest, offers a unique drinking experience. The initial bitter taste gives way to a spicy sensation that creates what's described as "a strangely pleasurable feeling" in the throat.
 
 **Kjoithita** stands as one of Amalon's most potent beverages. Two drinks typically result in complete memory loss of the evening. However, it's particularly famous for its unique after-effect - those who drink it report extraordinary mental clarity the following morning, with focus described as sharp as an iskrath on the hunt.
 

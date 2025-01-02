@@ -76,11 +76,11 @@
 
 - **[[Cusomi\|Cusomi]]:** The "**Coast of Happiness**," renowned for its trade operations, beautiful scenery, and welcoming atmosphere. Visitors are traditionally greeted with [[Jua La Va\|Jua La Va]]. [[Cusomi\|Cusomi]] is also where the first Ervenian laws were written, and it boasts the lowest crime rate in the kingdom.
 
-- **Fiarma Zan:** Known as the "living city" due to its constant change and blend of living and dead nature. The city is famous for its Ervenian cuisine, particularly [[Jua La Va\|Jua La Va]] and roasted Rima, a green bird native to the region.
+- **Fiarma Zan:** Known as the "living city" due to its constant change and blend of living and dead nature. The city is famous for its Ervenian cuisine, particularly [[Jua La Va\|Jua La Va]] and roasted [[Amalon Wiki/Creatures/Rima\|Rima]], a green bird native to the region.
 
 ### Notable Locations
 
-- **Var Ispar (The Northern Green):** A region rich in greenery, historically visited by Ervenians to ensure nature's continued kindness. It is home to the Twintail species, the dominant but least intelligent fish in the area.
+- **Var Ispar (The Northern Green):** A region rich in greenery, historically visited by Ervenians to ensure nature's continued kindness. It is home to the [[Amalon Wiki/Creatures/Twintail\|Twintail]] species, the dominant but least intelligent fish in the area.
 
 - **Dorohmer:** An ungoverned region known for its challenging environment and the presence of Yaebie trees. Those who venture into Dorohmer lose government protection and must be self-sufficient.
 
@@ -98,7 +98,7 @@
 
 ### Relationships with Other Kingdoms
 
-- **[[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]:** [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]] and R'Oth Vilgmeri had a strong trading relationship in the past through the Forgotten Haven. However, relations have ceased since the haven's closure. The Vilgmeri are generally distrustful of Ervenian magic.
+- **[[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]:** [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]] and [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]] had a strong trading relationship in the past through the Forgotten Haven. However, relations have ceased since the haven's closure. The Vilgmeri are generally distrustful of Ervenian magic.
 
 - **[[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]]:** [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]] maintains trade relations with [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]]. 
 

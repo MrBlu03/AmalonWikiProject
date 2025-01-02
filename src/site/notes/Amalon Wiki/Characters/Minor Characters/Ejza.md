@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-A kind-hearted elderly resident of [[Jua La Va\|Jua La Va]] who has known [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]] since his childhood. She plays a small but significant role in [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]] 's story by tending to his wounds after his return from Harrdmindor and providing him with valuable information about the state of affairs in [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]].
+A kind-hearted elderly resident of [[Jua La Va\|Jua La Va]] who has known [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]] since his childhood. She plays a small but significant role in [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]] 's story by tending to his wounds after his return from [[Amalon Wiki/Notable Locations/Harrdmindor\|Harrdmindor]] and providing him with valuable information about the state of affairs in [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]].
 
 ## Physical Description
 - Elderly woman with a maternal bearing

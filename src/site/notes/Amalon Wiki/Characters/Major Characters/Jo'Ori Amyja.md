@@ -2,8 +2,10 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/amalon-wiki/characters/major-characters/jo-ori-amyja/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
+# [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]]
+
 ## Overview
-[[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]] is the owner and keeper of [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]] in [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]. Despite being an immigrant, he managed to establish one of the most popular establishments in the region, known for welcoming all patrons regardless of their origin - a rarity in the xenophobic [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|Vilgmeri]] society.
+[[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori]] is the owner and keeper of [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]] in [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]. Born Jonemi Amyja in [[Arimant\|Arimant]] to sorcerer parents Esolde and Wethfey Amyja, he fled with them to [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]] as a child escaping persecution. Despite being an immigrant, he established one of the most welcoming establishments in the xenophobic region.
 
 ## Physical Description
 - Dark hair with slight stubble
@@ -13,16 +15,16 @@
 - Recently polished black shoes
 
 ## Background
-Born to immigrant parents from [[Var\|Var]] who later died defending [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]] during the war. Grew up as an orphan in [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], facing discrimination due to his foreign origins. Despite the challenges, he managed to establish [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]], which became a safe haven for both locals and outsiders. The tavern was enchanted by [[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]] to protect it from damage.
+Born to Esolde and Wethfey Amyja, skilled sorcerers who ran a secret potion trading organization in [[Arimant\|Arimant]]. The family fled when pursued by Headhunters, a government force targeting magic users. After reaching [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], his name was adapted from Jonemi to Jo'Ori. Though born to magical parents, Jo'Ori himself has no magical abilities and remembers little of his early life or parents' true nature. His parents later died defending [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]] during the war.
 
 ## Personality
 - Kind and welcoming to all, regardless of origin
 - Protective of his patrons and establishment
 - Shows strong loyalty to friends
-- Despite living in xenophobic [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], maintains an accepting attitude
+- Maintains an accepting attitude despite living in xenophobic [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]
 - Holds deep emotional attachments to those close to him
 - Practical and level-headed in crisis situations
-- Almost always avoids violence, favoring words instead.
+- Almost always avoids violence, favoring words instead
 
 ## Abilities
 ### Combat Skills
@@ -31,10 +33,12 @@ Born to immigrant parents from [[Var\|Var]] who later died defending [[Amalon Wi
 
 ### Magic/Special Powers
 - None personally, though his tavern is protected by [[Magic and Technology/Magic Systems/Ervenian Enchanting\|Ervenian Enchanting]]
+- Despite magical parentage, born without magical affinity
 
 ## Relationships
 ### Family
-- Parents (deceased) - Immigrants from [[Var\|Var]] who died defending [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]
+- Esolde Amyja (mother, deceased) - Skilled healing sorcerer
+- Wethfey Amyja (father, deceased) - Air/storm magic user and skilled drink maker
 - No other known relatives
 
 ### Associates
@@ -43,23 +47,26 @@ Born to immigrant parents from [[Var\|Var]] who later died defending [[Amalon Wi
 - **[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]]**: Tavern bard and friend
 - **[[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]]**: Magical ally who enchanted [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]]
 - **[[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]]**: Ally and occasional tavern patron
+- [[Amalon Wiki/Characters/Minor Characters/Erzovella\|Erzovella]]: Fellow barkeep who runs Dorothum's Tankard in [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]], harbored unrequited feelings for Jo'Ori
 
 ### Enemies
 - **[[Amalon Wiki/Characters/Major Characters/Ryo Bin\|Ryo Bin]]**: Banned from the tavern, responsible for Pumer's death
 
 ## Notable Events
-- Establishment of [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|the Drunken Sails tavern]]
-- Death of his friend Pumer
+- Fled [[Arimant\|Arimant]] as a child with sorcerer parents
+- Establishment of [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]]
+- Death of his friend [[Amalon Wiki/Characters/Major Characters/Pumer Pfy Joka\|Pumer]]
 - Housing and helping [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] and [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]]
 
 ## Trivia
 - Can make over thirty different drinks blindfolded
 - Has not renewed his legal business permit in over seven years
 - The tavern's enchantment repairs any physical damage it sustains
-- Named his pet orna "Bolly"
+- Named his pet [[Amalon Wiki/Creatures/Orna\|orna]] "Bolly"
+- Carries on his father's legacy through his dedication to drink-making
 
 ## References
 - "Jo'Ori The Peacekeeper"
-- "Tales of Amalon: The Four Kingdoms"
+- "Tales of Amalon: [[Amalon Wiki/Notable Locations/The Four\|The Four]] Kingdoms"
 - "Tales of Amalon: Astral Throne"
 - "How I met Pumer"

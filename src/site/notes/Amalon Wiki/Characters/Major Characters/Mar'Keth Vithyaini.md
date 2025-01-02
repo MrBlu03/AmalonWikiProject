@@ -3,11 +3,11 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]] was a distinguished soldier of [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]] 's Silver Army and leader of the Juyva One division. His journey from loyal soldier to truth-seeker exposed corruption within [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]] 's military and prevented a major war between [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]] and [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]].
+[[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth Vithyaini]] was a distinguished soldier of [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]] 's [[Amalon Wiki/Organisations/Silver Army\|Silver Army]] and leader of the Juyva One division. His journey from loyal soldier to truth-seeker exposed corruption within [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]] 's military and prevented a major war between [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]] and [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]].
 
 ## Physical Description
 - Black wool cape
-- Silver Army designated armor
+- [[Amalon Wiki/Organisations/Silver Army\|Silver Army]] designated armor
 - Dark hair
 - Light skin tone with scars
 - Notable combat gear includes his signature shield and flail
@@ -44,7 +44,7 @@ During a diplomatic mission, Mar'Keth's squad was ambushed and killed, leaving h
 - Wealthy adoptive family (estranged)
 
 ### Associates
-- **Dahra**: Nature guardian and ally
+- **[[Amalon Wiki/Characters/Major Characters/Dahra\|Dahra]]**: Nature guardian and ally
 - **[[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]]**: Tavern keeper and ally
 - **Lor'Zam**: Deceased comrade
 - **[[Amalon Wiki/Characters/Major Characters/Zo Rei Wu\|Zo Rei Wu]]**: Magical advisor
@@ -66,7 +66,7 @@ During a diplomatic mission, Mar'Keth's squad was ambushed and killed, leaving h
 ## Trivia
 - Originally from a wealthy family but chose military life
 - Trained by the legendary weapon master Lam'Ter
-- First soldier to master the flail in recent Silver Army history
+- First soldier to master the flail in recent [[Amalon Wiki/Organisations/Silver Army\|Silver Army]] history
 - His enchanted weapons channel emotional trauma into combat power
 
 ## References

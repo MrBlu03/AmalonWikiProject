@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Major Characters/Pumer Pfy Joka\|Pumer Pfy Joka]] was an [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenian]] architect and notorious thief who helped design many notable buildings in [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], including the Drunken Sails tavern. Known for his peculiar habit of stealing items only to improve and sometimes return them, he became a beloved figure despite his criminal tendencies.
+[[Amalon Wiki/Characters/Major Characters/Pumer Pfy Joka\|Pumer Pfy Joka]] was an [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenian]] architect and notorious thief who helped design many notable buildings in [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], including [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]]. Known for his peculiar habit of stealing items only to improve and sometimes return them, he became a beloved figure despite his criminal tendencies.
 
 ## Physical Description
 - Blue skin
@@ -11,7 +11,7 @@
 - Often used disguises and aliases (like his "Ronti" persona) when stealing
 
 ## Background
-Originally from [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]], [[Amalon Wiki/Characters/Major Characters/Pumer Pfy Joka\|Pumer]] was a skilled architect who helped construct most of the notable buildings in [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]. He designed the Drunken Sails tavern and became close friends with its owner [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]]. Despite his contributions to architecture, he was also known for his frequent theft of weapons and artifacts, which he would often restore before returning them.
+Originally from [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]], [[Amalon Wiki/Characters/Major Characters/Pumer Pfy Joka\|Pumer]] was a skilled architect who helped construct most of the notable buildings in [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]]. He designed [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]] and became close friends with its owner [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]]. Despite his contributions to architecture, he was also known for his frequent theft of weapons and artifacts, which he would often restore before returning them.
 
 ## Personality
 - Playful and mischievous
@@ -45,7 +45,7 @@ Originally from [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]], [[Amalon Wiki/Cha
 - **[[Amalon Wiki/Characters/Major Characters/Ryo Bin\|Ryo Bin]]**: Assassin responsible for his death
 
 ## Notable Events
-- Design and construction of the Drunken Sails tavern
+- Design and construction of [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]]
 - Theft and restoration of the Gilded Sword
 - Various legendary thefts and returns
 - Death by assassination
@@ -56,10 +56,10 @@ Originally from [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]], [[Amalon Wiki/Cha
 - [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]] only caught him stealing twelve times
 - His death was deeply mourned by thousands
 - A statue was erected in his honor in [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]]
-- Created the alias "Ronti" to pose as an arms keeper at the Drunken Sails tavern
+- Created the alias "Ronti" to pose as an arms keeper at [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]]
 
 ## References
 - "How I met Pumer"
-- "Tales of Amalon: The Four Kingdoms"
+- "Tales of Amalon: [[Amalon Wiki/Notable Locations/The Four\|The Four]] Kingdoms"
 - "Tales of Amalon: Astral Throne"
 - "Pumer The Collector"

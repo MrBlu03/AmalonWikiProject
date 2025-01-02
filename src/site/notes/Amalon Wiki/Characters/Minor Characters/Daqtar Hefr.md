@@ -14,7 +14,7 @@ Works as a chef at [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|the
 ## Abilities
 ### Culinary Skills
 - Expert chef capable of preparing various dishes including:
-  - Slow cooked twintail filet with parsley and melted butter
+  - Slow cooked [[Amalon Wiki/Creatures/Twintail\|Twintail]] filet with parsley and melted butter
   - Chopped hirmet with onions and burbari bacon
   - Well done pjirkari steak with jurh sauce and fresh salad
 
@@ -32,4 +32,4 @@ Works as a chef at [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|the
 
 ## References
 - Mentioned in "Foods and Drinks" document
-- Connected to the Drunken Sails tavern lore
+- Connected to [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]] lore

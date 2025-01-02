@@ -28,8 +28,8 @@
 ### Magic/Special Powers
 - Mastery over [[Magic and Technology/Magic Systems/Astral Magic\|astral magic]], including rare and forbidden techniques  
 - Able to preserve his soul and consciousness after death
-- Can communicate with and possess astral magic users
-- Created new forms of astral magic (Wisdom, Pyro, Catalyst, Decay)  
+- Can communicate with and possess [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]] users
+- Created new forms of [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]] (Wisdom, Pyro, Catalyst, Decay)  
 
 ## Relationships
 ### Family
@@ -45,7 +45,7 @@
 ## Notable Events
 - Executed by [[Amalon Wiki/The Kingdoms/High Valomor\|Valomor]] for crimes related to his [[Magic and Technology/Magic Systems/Astral Magic\|astral magic]] research
 - Transfers part of his soul into [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] when she finds his hidden study
-- Manipulates [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] to continue his work and seek the Astral Throne
+- Manipulates [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] to continue his work and seek [[Magic and Technology/Ancient Knowledge/The Astral Throne\|The Astral Throne]]
 
 ## Trivia
 - ~~His chronicle "Subtle Power of the Rynki Enchantments" became a forbidden text~~

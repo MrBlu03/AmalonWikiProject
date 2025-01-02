@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]], a skilled sorcerer from [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]], inherited the astral Mela from [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] and embarked on a journey to uncover the secrets of the Astral Throne. Her quest led her to confront dark forces and her own growing power.
+[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]], a skilled sorcerer from [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]], inherited the astral Mela from [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] and embarked on a journey to uncover the secrets of [[Magic and Technology/Ancient Knowledge/The Astral Throne\|The Astral Throne]]. Her quest led her to confront dark forces and her own growing power.
 
 ## Physical Description
 - Young woman with dark hair
@@ -11,7 +11,7 @@
 - Carries a kula (multi-string wood instrument)
 
 ## Background
-[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] grew up in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]], studying astral magic from a young age. At fifteen, she began working at [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori's]] tavern as a bard. When [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] passed on the astral Mela to her, [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] dedicated herself to mastering its power and understanding the visions of the Astral Throne that haunted her.
+[[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] grew up in [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]], studying [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]] from a young age. At fifteen, she began working at [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori's]] tavern as a bard. When [[Amalon Wiki/Characters/Major Characters/Raim Aer\|Raim]] passed on the astral Mela to her, [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]] dedicated herself to mastering its power and understanding the visions of [[Magic and Technology/Ancient Knowledge/The Astral Throne\|The Astral Throne]] that haunted her.
 
 ## Personality 
 - Ambitious and driven to become a powerful sorcerer
@@ -21,7 +21,7 @@
 
 ## Abilities
 ### Combat Skills
-- Trained in astral magic combat at Valomor's School of Acquired Astral Magic Arts
+- Trained in [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]] combat at Valomor's School of Acquired [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]] Arts
 - Can summon and control magical energy projectiles
 - Combines magic with kula playing to boost power
 
@@ -60,4 +60,4 @@
 ## References
 - "Tales of Amalon: Astral Throne"
 - "Vai The Fortuneteller"  
-- "Tales from the Four Kingdoms"
+- "Tales from [[Amalon Wiki/Notable Locations/The Four\|The Four]] Kingdoms"
