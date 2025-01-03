@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Major Characters/Ryo Bin\|Ryo Bin]] is the leader of the [[Amalon Wiki/Organisations/Assassin’s Guild\|Assassin’s Guild]] in [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]] and second son of [[Amalon Wiki/Characters/Minor Characters/Haki Bin\|Haki Bin]]. Former student of [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]], he rejected his noble upbringing to build his own empire through mercenary work and assassination contracts, becoming one of the most feared figures in Amalon.
+[[Amalon Wiki/Characters/Major Characters/Ryo Bin\|Ryo Bin]] is the leader of the [[Amalon Wiki/Organisations/Assassins Guild\|Assassins Guild]] in [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]] and second son of [[Amalon Wiki/Characters/Minor Characters/Haki Bin\|Haki Bin]]. Former student of [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]], he rejected his noble upbringing to build his own empire through mercenary work and assassination contracts, becoming one of the most feared figures in Amalon.
 
 ## Physical Description 
 - Scar on left eye
@@ -14,7 +14,7 @@
 - Time-telling device on wrist
 
 ## Background
-Born into nobility as the second son of [[Amalon Wiki/Characters/Minor Characters/Haki Bin\|Haki Bin]], [[Amalon Wiki/Characters/Major Characters/Ryo Bin\|Ryo]] rejected his wealthy lifestyle and vandalized properties until running away. Found and trained by [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]], he eventually betrayed his mentor and stole from him. Built the [[Amalon Wiki/Organisations/Assassin’s Guild\|Assassin’s Guild]] from scratch, turning it into a powerful organization based in [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]].
+Born into nobility as the second son of [[Amalon Wiki/Characters/Minor Characters/Haki Bin\|Haki Bin]], [[Amalon Wiki/Characters/Major Characters/Ryo Bin\|Ryo]] rejected his wealthy lifestyle and vandalized properties until running away. Found and trained by [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]], he eventually betrayed his mentor and stole from him. Built the [[Amalon Wiki/Organisations/Assassins Guild\|Assassins Guild]] from scratch, turning it into a powerful organization based in [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]].
 
 ## Personality
 - Pragmatic and business-minded
@@ -43,7 +43,7 @@ Born into nobility as the second son of [[Amalon Wiki/Characters/Minor Character
 - Unnamed noble family
 
 ### Associates
-- **[[Amalon Wiki/Organisations/Assassin’s Guild\|Assassin’s Guild]]**: Subordinates and organization
+- **[[Amalon Wiki/Organisations/Assassins Guild\|Assassins Guild]]**: Subordinates and organization
 - **Various clients**: Professional contacts
 
 ### Allies and Enemies
@@ -53,7 +53,7 @@ Born into nobility as the second son of [[Amalon Wiki/Characters/Minor Character
 
 ## Notable Events
 - Betrayal of [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]]
-- Formation of the [[Amalon Wiki/Organisations/Assassin’s Guild\|Assassin’s Guild]]
+- Formation of the [[Amalon Wiki/Organisations/Assassins Guild\|Assassins Guild]]
 - Assassination of [[Amalon Wiki/Characters/Major Characters/Pumer Pfy Joka\|Pumer]]  
 - Later alliance with [[Amalon Wiki/Characters/Major Characters/Mar'Keth Vithyaini\|Mar'Keth]] against [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai]]
 - Contract from Armid'Ro

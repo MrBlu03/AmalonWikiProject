@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Minor Characters/Haki Bin\|Haki Bin]] was the father of [[Amalon Wiki/Characters/Major Characters/Ryo Bin\|Ryo Bin]] of the [[Amalon Wiki/Organisations/Assassin’s Guild\|Assassin’s Guild]] in [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]]. His significance lies in being part of the lineage that produced one of Juval's most notorious assassin leaders.
+[[Amalon Wiki/Characters/Minor Characters/Haki Bin\|Haki Bin]] was the father of [[Amalon Wiki/Characters/Major Characters/Ryo Bin\|Ryo Bin]] of the [[Amalon Wiki/Organisations/Assassins Guild\|Assassins Guild]] in [[Amalon Wiki/The Kingdoms/Gilded Juval\|Gilded Juval]]. His significance lies in being part of the lineage that produced one of Juval's most notorious assassin leaders.
 
 ## Relationships
 ### Family
@@ -11,7 +11,7 @@
 - Connected to Juval's nobility, as [[Amalon Wiki/Characters/Major Characters/Ryo Bin\|Ryo]] is described as being "born as a nobleman's kid"
 
 ## Notable Events
-- Father to [[Amalon Wiki/Characters/Major Characters/Ryo Bin\|Ryo Bin]], who would later become the leader of the [[Amalon Wiki/Organisations/Assassin’s Guild\|Assassin’s Guild]]
+- Father to [[Amalon Wiki/Characters/Major Characters/Ryo Bin\|Ryo Bin]], who would later become the leader of the [[Amalon Wiki/Organisations/Assassins Guild\|Assassins Guild]]
 - Part of Juval's noble class during his time
 
 ## References

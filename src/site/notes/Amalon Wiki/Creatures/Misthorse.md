@@ -3,7 +3,7 @@
 ---
 
 ## Description
-Misthorses are ethereal equine creatures native to the territories controlled by [[Amalon Wiki/Organisations/Brotherhood\|The Brotherhood]]. These supernatural beings are distinguished by their semi-corporeal form, appearing to be partly composed of the same dark mist that surrounds their master, [[Amalon Wiki/Characters/Major Characters/Macijek A'Vak\|Macijek A'Vak]]. Their most striking feature is their ability to move silently through both physical and mystical barriers.
+Misthorses are ethereal equine creatures native to the territories controlled by [[Amalon Wiki/Organisations/Brotherhood\|Brotherhood]]. These supernatural beings are distinguished by their semi-corporeal form, appearing to be partly composed of the same dark mist that surrounds their master, [[Amalon Wiki/Characters/Major Characters/Macijek A'Vak\|Macijek A'Vak]]. Their most striking feature is their ability to move silently through both physical and mystical barriers.
 
 ## Habitat
 - Natural environment: Primarily bound to areas of supernatural significance and dark magic
