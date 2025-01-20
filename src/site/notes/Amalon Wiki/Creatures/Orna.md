@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"tags":["linker-exclude"],"permalink":"/amalon-wiki/creatures/orna/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-home":false,"dg-publish":true,"tags":[],"permalink":"/amalon-wiki/creatures/orna/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ## Description
