@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/magic-and-technology/mythological-beings-and-entities/the-whisperers/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-## The Whisperers
-
 The **Whisperers** are **ancient, inter-dimensional beings** connected to the towers known as the [[Amalon Wiki/Notable Locations/The Four\|Four]]. They are associated with the use of magic similar to that of [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]].
 
 ### Nature and Characteristics

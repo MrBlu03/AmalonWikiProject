@@ -18,13 +18,13 @@ Many modern [[Amalon Wiki/The Kingdoms/High Valomor\|Valomorian]] scholars debat
 
 ## Cultural Impact
 
-The image of [[Magic and Technology/Ancient Knowledge/The Astral Throne\|The Astral Throne]] has become deeply embedded in [[Amalon Wiki/The Kingdoms/High Valomor\|Valomorian]] magical tradition, often used as a symbol representing the heights of [[Magic and Technology/Magic Systems/Astral Magic\|astral mastery]]. Young sorcerers at [[Hidden Lowval\|Hidden Lowval]] sometimes report seeing it in meditation, though skeptics attribute this to the throne's prominence in magical education.
+The image of [[Magic and Technology/Ancient Knowledge/The Astral Throne\|The Astral Throne]] has become deeply embedded in [[Amalon Wiki/The Kingdoms/High Valomor\|Valomorian]] magical tradition, often used as a symbol representing the heights of [[Magic and Technology/Magic Systems/Astral Magic\|astral mastery]]. Young sorcerers at [[Amalon Wiki/Notable Locations/Hidden Lowval\|Hidden Lowval]] sometimes report seeing it in meditation, though skeptics attribute this to the throne's prominence in magical education.
 
 ## Known Appearances
 
 - In the visions of [[Amalon Wiki/Characters/Major Characters/Vai Elebor Dani\|Vai Elebor Dani]] during the [[Amalon Wiki/The Kingdoms/High Valomor\|Valomorian]] Civil Conflict
 - Referenced in [[Magic and Technology/Ancient Knowledge/Valikath's Research\|the personal journals]] of [[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath Elebor Dani]]
-- Depicted in various murals throughout [[Hidden Lowval\|Hidden Lowval]] and other [[Amalon Wiki/The Kingdoms/High Valomor\|Valomorian]] magical institutions
+- Depicted in various murals throughout [[Amalon Wiki/Notable Locations/Hidden Lowval\|Hidden Lowval]] and other [[Amalon Wiki/The Kingdoms/High Valomor\|Valomorian]] magical institutions
 
 ## Current Status
 

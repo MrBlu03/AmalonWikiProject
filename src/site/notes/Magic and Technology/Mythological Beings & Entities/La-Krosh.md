@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/magic-and-technology/mythological-beings-and-entities/la-krosh/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-## La-Krosh
-
 The **La-Krosh** are mysterious, malevolent, ethereal entities, primarily associated with the [[Deepwoods\|Deepwoods]] of [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]]. They are known for forming pacts with individuals, granting them power at a significant cost. The term "La-Krosh" functions as a title. Those who possess this power are often known by the name **Darkweaver**, followed by their given name.
 
 ### Nature and Characteristics

@@ -19,7 +19,7 @@ While the sources don't explicitly detail the economic structure of [[Amalon Wik
 [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]]'s geography is characterized by a diverse landscape, ranging from calm cities to challenging training grounds. Notable locations include:
 
 - **Almari**: A tranquil city known for its tall buildings and serving as a residence for experienced duelists and sorcerers.
-- [[Hidden Lowval\|Hidden Lowval]]: A city nestled deep within a forest, serving as a secluded sanctuary for scholars and a training ground for aspiring practitioners of [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]] and combat.
+- [[Amalon Wiki/Notable Locations/Hidden Lowval\|Hidden Lowval]]: A city nestled deep within a forest, serving as a secluded sanctuary for scholars and a training ground for aspiring practitioners of [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]] and combat.
 - **Front Vanguards**: A series of towers situated in a desert, forming a barrier powered by [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]] to protect the kingdom from unwanted intruders.
 - **Isgard**: A city distinguished by its elegant buildings, training areas, and numerous houses.
 
@@ -34,7 +34,7 @@ The sources don't explicitly describe the governmental structure of [[Amalon Wik
 ### Cities
 
 - **Almari**: This serene city is home to seasoned duelists and sorcerers, serving as a haven for those who have dedicated their lives to honing their skills and passing on their knowledge. The city's peaceful atmosphere provides an ideal environment for contemplation and reflection, allowing its inhabitants to delve deeper into their chosen disciplines.
-- [[Hidden Lowval\|Hidden Lowval]] is a secluded city shrouded in the depths of a forest, serving as a sanctuary for scholars and a training ground for those seeking to master [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]] and combat. The city's isolation provides a protected space for intense study and practice, fostering an environment of focused learning and skill development.
+- [[Amalon Wiki/Notable Locations/Hidden Lowval\|Hidden Lowval]] is a secluded city shrouded in the depths of a forest, serving as a sanctuary for scholars and a training ground for those seeking to master [[Magic and Technology/Magic Systems/Astral Magic\|Astral Magic]] and combat. The city's isolation provides a protected space for intense study and practice, fostering an environment of focused learning and skill development.
 
 ### Notable Locations
 

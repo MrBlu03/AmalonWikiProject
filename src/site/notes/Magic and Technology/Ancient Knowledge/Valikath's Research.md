@@ -25,7 +25,7 @@ A significant portion of [[Magic and Technology/Ancient Knowledge/Valikath's Res
 
 ### Human Experimentation
 [[Amalon Wiki/Characters/Major Characters/Valikath Elebor Dani\|Valikath Elebor Dani]] was accused of conducting dangerous experiments on:
-- Students at [[Hidden Lowval\|Hidden Lowval]]
+- Students at [[Amalon Wiki/Notable Locations/Hidden Lowval\|Hidden Lowval]]
 - Fellow magistrates
 - Unwilling test subjects
 These allegations ultimately led to his execution by the [[Amalon Wiki/The Kingdoms/High Valomor\|Valomorian]] council.
@@ -69,6 +69,6 @@ Many aspects of [[Magic and Technology/Ancient Knowledge/Valikath's Research\|Va
 ## Known Locations
 
 Confirmed repositories of [[Magic and Technology/Ancient Knowledge/Valikath's Research\|Valikath's Research]] include:
-- A hidden chamber behind [[Hidden Lowval\|Hidden Lowval]] 's main library
+- A hidden chamber behind [[Amalon Wiki/Notable Locations/Hidden Lowval\|Hidden Lowval]] 's main library
 - Scattered pages in [[Amalon Wiki/The Kingdoms/High Valomor\|Valomorian]] archives
 - Secret collections maintained by certain magistrates

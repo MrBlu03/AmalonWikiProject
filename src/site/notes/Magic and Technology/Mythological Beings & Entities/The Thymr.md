@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/magic-and-technology/mythological-beings-and-entities/the-thymr/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-## The Thymr
-
 The **Thymr** are referred to as Gods. However, in the [[Mistlands\|Mistlands]], they are viewed by some as mere **masks** or **vessels for crimes**, worn by those who commit unjust acts.
 
 ### Nature and Beliefs

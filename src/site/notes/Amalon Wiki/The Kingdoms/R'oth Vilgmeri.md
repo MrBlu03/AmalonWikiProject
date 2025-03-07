@@ -19,7 +19,7 @@ The culture of [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'Oth Vilgmeri]] is st
 The sources provide limited information on [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'Oth Vilgmeri]]'s economy. However, it can be inferred that:
 
 - **Trade** plays a role, but the kingdom is not as open to trade as other kingdoms like [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]]. Historically, an influx of immigrants nearly caused an economic collapse, leading to increased isolationism.
-- The kingdom's economy has been negatively impacted by the **strained relationship with [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]]**, as trade with [[Cusomi\|Cusomi]] and [[Hidden Lowval\|Hidden Lowval]] has ceased. This suggests that some level of inter-kingdom commerce existed previously.
+- The kingdom's economy has been negatively impacted by the **strained relationship with [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]]**, as trade with [[Cusomi\|Cusomi]] and [[Amalon Wiki/Notable Locations/Hidden Lowval\|Hidden Lowval]] has ceased. This suggests that some level of inter-kingdom commerce existed previously.
 
 ### Geography
 

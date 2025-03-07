@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/magic-and-technology/magic-systems/astral-magic/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-# Astral Magic
-
 The primary magical tradition of [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]], centered around manipulation of astral energy. While some practitioners may bond with Astral entities, this is not required to practice the art. This magic system forms the foundation of [[Amalon Wiki/The Kingdoms/High Valomor\|Valomorian]] military and magical education.
 
 ## Fundamental Principles
@@ -38,7 +36,7 @@ Advanced forms discovered by [[Amalon Wiki/Characters/Major Characters/Valikath 
 ## Training and Education
 
 ### Institutions
-- [[Hidden Lowval\|Hidden Lowval]]: Primary training facility
+- [[Amalon Wiki/Notable Locations/Hidden Lowval\|Hidden Lowval]]: Primary training facility
 - Various academies throughout [[Amalon Wiki/The Kingdoms/High Valomor\|High Valomor]]
 - Specialized combat schools
 

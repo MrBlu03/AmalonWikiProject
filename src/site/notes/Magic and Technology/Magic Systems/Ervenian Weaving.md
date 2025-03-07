@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/magic-and-technology/magic-systems/ervenian-weaving/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-## Ervenian Weaving
-
 **Ervenian Weaving** is a unique and complex art form deeply rooted in the culture and environment of [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]]. It is a type of soft magic that relies on a natural connection to the world, lineage, and the power of the soul.
 
 ### Core Principles

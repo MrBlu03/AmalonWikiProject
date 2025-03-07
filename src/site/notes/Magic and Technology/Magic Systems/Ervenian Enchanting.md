@@ -2,8 +2,6 @@
 {"dg-home":false,"dg-publish":true,"permalink":"/magic-and-technology/magic-systems/ervenian-enchanting/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-# Ervenian Enchanting
-
 A systematic form of magic practiced in [[Amalon Wiki/The Kingdoms/Ervenia\|Ervenia]] that focuses on understanding and manipulating nature's laws through written spells and precise formulas. Unlike its counterpart [[Magic and Technology/Magic Systems/Ervenian Weaving\|Ervenian Weaving]], enchanting follows strict rules and documented methods.
 
 ## Core Principles
