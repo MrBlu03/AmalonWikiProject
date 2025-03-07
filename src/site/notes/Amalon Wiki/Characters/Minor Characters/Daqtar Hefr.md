@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-[[Amalon Wiki/Characters/Minor Characters/Daqtar Hefr\|Daqtar Hefr]] is one of the two main chefs at [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|the Drunken Sails tavern]] in [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], working during weekdays. Along with [[Amalon Wiki/Characters/Minor Characters/Vithuros Alid\|Vithuros Alid]], he is responsible for maintaining the tavern's impressive 97% satisfaction rate with their culinary offerings.
+[[Amalon Wiki/Characters/Minor Characters/Daqtar Hefr\|Daqtar Hefr]] is one of the two main chefs at [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|the Drunken Sails tavern]] in [[Amalon Wiki/The Kingdoms/R'oth Vilgmeri\|R'oth Vilgmeri]], working during weekdays. Along with [[Amalon Wiki/Characters/Supporting Characters/Vithuros Alid\|Vithuros Alid]], he is responsible for maintaining the tavern's impressive 97% satisfaction rate with their culinary offerings.
 
 ## Physical Description
 - No physical description provided in source material
@@ -20,7 +20,7 @@ Works as a chef at [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|the
 
 ## Relationships
 ### Associates
-- Works alongside [[Amalon Wiki/Characters/Minor Characters/Vithuros Alid\|Vithuros Alid]] (weekend chef)
+- Works alongside [[Amalon Wiki/Characters/Supporting Characters/Vithuros Alid\|Vithuros Alid]] (weekend chef)
 - Employed by [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori]] at [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]]
 
 ## Notable Events

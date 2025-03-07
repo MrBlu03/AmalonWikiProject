@@ -50,7 +50,7 @@ The tavern represents a unique space within [[Amalon Wiki/The Kingdoms/R'oth Vil
 - [[Amalon Wiki/Foods and Drinks/Foods and Drinks of Amalon\|Local specialties]]
 
 ### Food
-- Prepared by expert chefs including Sir [[Amalon Wiki/Characters/Minor Characters/Vithuros Alid\|Vithuros Alid]] and Sir [[Amalon Wiki/Characters/Minor Characters/Daqtar Hefr\|Daqtar Hefr]]
+- Prepared by expert chefs including Sir [[Amalon Wiki/Characters/Supporting Characters/Vithuros Alid\|Vithuros Alid]] and Sir [[Amalon Wiki/Characters/Minor Characters/Daqtar Hefr\|Daqtar Hefr]]
 - Known for high-quality meals
 - 97% customer satisfaction rate
 

@@ -52,7 +52,7 @@ While not for consumption, rasha plays a fascinating role in Amalon's commercial
 
 ## [[Amalon Wiki/Notable Locations/The Drunken Sails Tavern\|The Drunken Sails Tavern]]
 
-Under the proprietorship of [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]], this establishment stands as a testament to Amalon's rich culinary traditions. Maintaining an impressive 97% satisfaction rate, the tavern owes much of its success to the combined talents of weekend chef [[Amalon Wiki/Characters/Minor Characters/Vithuros Alid\|Vithuros Alid]] and weekday chef [[Amalon Wiki/Characters/Minor Characters/Daqtar Hefr\|Daqtar Hefr]].
+Under the proprietorship of [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]], this establishment stands as a testament to Amalon's rich culinary traditions. Maintaining an impressive 97% satisfaction rate, the tavern owes much of its success to the combined talents of weekend chef [[Amalon Wiki/Characters/Supporting Characters/Vithuros Alid\|Vithuros Alid]] and weekday chef [[Amalon Wiki/Characters/Minor Characters/Daqtar Hefr\|Daqtar Hefr]].
 
 [[Amalon Wiki/Characters/Major Characters/Jo'Ori Amyja\|Jo'Ori Amyja]] himself contributes significantly to the tavern's reputation through his mastery of beverages, capable of preparing over thirty different drinks blindfolded. This expertise particularly shines during busy hours when the tavern floods with customers.
 
